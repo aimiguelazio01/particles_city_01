@@ -221,6 +221,9 @@ class Experience {
 
         await this.loadChunks(manifest, folder);
 
+        // Standard orientation for all cities (rotated 180 degrees from original default)
+        this.reconstructionGroup.rotation.y = 0;
+
         this.currentCity = cityName;
         const titleEl = document.getElementById('city-title');
         if (titleEl) titleEl.innerText = cityName.toUpperCase();
