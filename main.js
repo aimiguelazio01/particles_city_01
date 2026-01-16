@@ -219,8 +219,12 @@ class Experience {
 
         await this.loadChunks(manifest, folder);
 
-        // Standard orientation for all cities 
-        this.reconstructionGroup.rotation.x = 0;
+        // Adjust orientation per city
+        if (cityName === 'london') {
+            this.reconstructionGroup.rotation.x = Math.PI;
+        } else {
+            this.reconstructionGroup.rotation.x = 0; // Lisbon is upright at 0
+        }
         this.reconstructionGroup.rotation.y = 0;
 
         this.currentCity = cityName;
