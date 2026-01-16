@@ -1,0 +1,340 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCATTER-01 | REBUILT</title>
+    <style>
+        :root {
+            --accent: #ffffff;
+            --bg: #000000;
+        }
+
+        body {
+            margin: 0;
+            padding: 0;
+            overflow: hidden;
+            background-color: var(--bg);
+            color: var(--accent);
+            font-family: 'Outfit', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            user-select: none;
+        }
+
+        #canvas-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+        }
+
+        .ui-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 10;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+            padding: 40px;
+            box-sizing: border-box;
+            background: radial-gradient(circle at center, transparent 0%, rgba(0, 0, 0, 0.4) 100%);
+        }
+
+        .header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+        }
+
+        .title {
+            font-size: 14px;
+            letter-spacing: 0.5em;
+            text-transform: uppercase;
+            font-weight: 300;
+            opacity: 0.8;
+        }
+
+        .stats {
+            text-align: right;
+            font-size: 10px;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+            opacity: 0.4;
+        }
+
+        .footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-end;
+        }
+
+        .description {
+            max-width: 300px;
+            font-size: 11px;
+            line-height: 1.6;
+            opacity: 0.4;
+            letter-spacing: 0.05em;
+        }
+
+        .loader {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: var(--bg);
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            z-index: 100;
+            transition: opacity 1.5s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .loader.hidden {
+            opacity: 0;
+            pointer-events: none;
+        }
+
+        .loader-content {
+            text-align: center;
+        }
+
+        .loader-text {
+            font-size: 10px;
+            letter-spacing: 0.8em;
+            text-transform: uppercase;
+            margin-bottom: 20px;
+            font-weight: 300;
+        }
+
+        .progress-bar {
+            width: 200px;
+            height: 1px;
+            background: rgba(255, 255, 255, 0.1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .progress-fill {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 0%;
+            background: var(--accent);
+            transition: width 0.4s ease;
+        }
+
+        #debug-log {
+            position: fixed;
+            bottom: 40px;
+            right: 40px;
+            font-size: 9px;
+            color: rgba(255, 255, 255, 0.3);
+            font-family: monospace;
+            text-align: right;
+            pointer-events: none;
+        }
+
+        .controls-ui {
+            pointer-events: auto;
+            margin-top: 20px;
+        }
+
+        .btn {
+            background: transparent;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+            color: white;
+            padding: 8px 16px;
+            font-size: 10px;
+            letter-spacing: 0.2em;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            outline: none;
+        }
+
+        .btn:hover {
+            background: white;
+            color: black;
+            border-color: white;
+        }
+
+        .btn:active {
+            transform: scale(0.95);
+        }
+
+        /* Infographic Styles */
+        .infographic-container {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            pointer-events: none;
+            z-index: 5;
+        }
+
+        .info-card {
+            position: absolute;
+            width: 200px;
+            background: rgba(0, 0, 0, 0.7);
+            border: 1px solid rgba(255, 255, 255, 0.1);
+            backdrop-filter: blur(10px);
+            padding: 15px;
+            pointer-events: auto;
+            border-radius: 4px;
+            transform: translate(-50%, -50%);
+            transition: opacity 0.3s ease, transform 0.3s ease;
+            opacity: 0;
+            text-align: left;
+        }
+
+        .info-card.visible {
+            opacity: 1;
+        }
+
+        .info-card img {
+            width: 100%;
+            height: 120px;
+            object-fit: cover;
+            border-radius: 2px;
+            margin-bottom: 10px;
+        }
+
+        .info-card h3 {
+            margin: 0 0 5px 0;
+            font-size: 14px;
+            font-weight: 300;
+            letter-spacing: 0.1em;
+            text-transform: uppercase;
+        }
+
+        .info-card p {
+            margin: 0;
+            font-size: 10px;
+            line-height: 1.4;
+            opacity: 0.6;
+            letter-spacing: 0.05em;
+        }
+
+        .info-card .marker-line {
+            position: absolute;
+            bottom: -40px;
+            left: 50%;
+            width: 1px;
+            height: 40px;
+            background: linear-gradient(to top, rgba(255, 255, 255, 0.5), transparent);
+            transform: translateX(-50%);
+        }
+
+        .info-card .marker-dot {
+            position: absolute;
+            bottom: -45px;
+            left: 50%;
+            width: 6px;
+            height: 6px;
+            background: white;
+            border-radius: 50%;
+            transform: translateX(-50%);
+            box-shadow: 0 0 10px white;
+        }
+
+        @media (max-width: 768px) {
+            .ui-overlay {
+                padding: 20px;
+            }
+
+            .header {
+                flex-direction: column;
+                gap: 5px;
+            }
+
+            .stats {
+                text-align: left;
+            }
+
+            .footer {
+                flex-direction: column;
+                align-items: flex-start;
+                gap: 20px;
+            }
+
+            .description {
+                max-width: 100%;
+                font-size: 10px;
+            }
+
+            #debug-log {
+                position: static;
+                text-align: left;
+            }
+
+            .info-card {
+                width: 150px;
+                padding: 10px;
+            }
+
+            .info-card img {
+                height: 80px;
+            }
+
+            .controls-ui {
+                display: flex;
+                flex-wrap: wrap;
+                gap: 5px;
+            }
+
+            .btn {
+                flex: 1 1 auto;
+                padding: 6px 12px;
+                font-size: 9px;
+            }
+        }
+    </style>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div id="canvas-container"></div>
+    <div id="infographic-container" class="infographic-container"></div>
+
+    <div class="ui-overlay">
+        <div class="header">
+            <div class="title" id="city-title">LISBON</div>
+            <div class="stats" id="particle-count">0 Particles</div>
+        </div>
+        <div class="footer">
+            <div class="description">
+                Point cloud reconstruction from high-dynamic range texture data. Interactive 3D environment with
+                additive radiance blending and real-time city morphing.
+                <div class="controls-ui">
+                    <button id="toggle-color" class="btn">Toggle Monochrome</button>
+                    <button id="btn-lisbon" class="btn">Lisbon</button>
+                    <button id="btn-london" class="btn">London</button>
+                </div>
+            </div>
+            <div id="debug-log">SYSTEM READY</div>
+        </div>
+    </div>
+
+    <div class="loader" id="loader">
+        <div class="loader-content">
+            <div class="loader-text" id="loader-status">Initializing</div>
+            <div class="progress-bar">
+                <div class="progress-fill" id="progress-fill"></div>
+            </div>
+        </div>
+    </div>
+
+    <script type="module" src="/main.js"></script>
+</body>
+
+</html>

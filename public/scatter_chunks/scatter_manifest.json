@@ -1,0 +1,407 @@
+[
+    {
+        "id": "-1_-1_-1",
+        "texture_pos": "scatter_-1_-1_-1_pos.pfm",
+        "texture_col": "scatter_-1_-1_-1_col.pfm",
+        "count": 3259,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -31.715375900268555,
+                -0.25260162353515625,
+                -7.240383148193359
+            ],
+            "radius": 12.55281433568931
+        }
+    },
+    {
+        "id": "-1_-1_0",
+        "texture_pos": "scatter_-1_-1_0_pos.pfm",
+        "texture_col": "scatter_-1_-1_0_col.pfm",
+        "count": 40705,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -28.829483032226562,
+                -0.5094013214111328,
+                25.000109672546387
+            ],
+            "radius": 32.76308423148561
+        }
+    },
+    {
+        "id": "-1_-1_1",
+        "texture_pos": "scatter_-1_-1_1_pos.pfm",
+        "texture_col": "scatter_-1_-1_1_col.pfm",
+        "count": 42329,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -27.03253173828125,
+                -0.8266520500183105,
+                56.650047302246094
+            ],
+            "radius": 23.92208756771633
+        }
+    },
+    {
+        "id": "-1_0_-1",
+        "texture_pos": "scatter_-1_0_-1_pos.pfm",
+        "texture_col": "scatter_-1_0_-1_col.pfm",
+        "count": 830482,
+        "texture_size": 1024,
+        "bounds": {
+            "center": [
+                -25.000011444091797,
+                2.3752191066741943,
+                -25.000054359436035
+            ],
+            "radius": 35.434978956805445
+        }
+    },
+    {
+        "id": "-1_0_-2",
+        "texture_pos": "scatter_-1_0_-2_pos.pfm",
+        "texture_col": "scatter_-1_0_-2_col.pfm",
+        "count": 180419,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                -24.999713897705078,
+                3.431389093399048,
+                -60.636470794677734
+            ],
+            "radius": 27.16788410162808
+        }
+    },
+    {
+        "id": "-1_0_0",
+        "texture_pos": "scatter_-1_0_0_pos.pfm",
+        "texture_col": "scatter_-1_0_0_col.pfm",
+        "count": 937669,
+        "texture_size": 1024,
+        "bounds": {
+            "center": [
+                -24.99974250793457,
+                1.535484790802002,
+                24.999999046325684
+            ],
+            "radius": 35.38842011664011
+        }
+    },
+    {
+        "id": "-1_0_1",
+        "texture_pos": "scatter_-1_0_1_pos.pfm",
+        "texture_col": "scatter_-1_0_1_col.pfm",
+        "count": 194485,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                -24.996868133544922,
+                1.1600232124328613,
+                56.65066909790039
+            ],
+            "radius": 25.892139993445486
+        }
+    },
+    {
+        "id": "-2_-1_-1",
+        "texture_pos": "scatter_-2_-1_-1_pos.pfm",
+        "texture_col": "scatter_-2_-1_-1_col.pfm",
+        "count": 6552,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -72.82683563232422,
+                -0.3369455337524414,
+                -10.39004135131836
+            ],
+            "radius": 11.904495700370934
+        }
+    },
+    {
+        "id": "-2_-1_0",
+        "texture_pos": "scatter_-2_-1_0_pos.pfm",
+        "texture_col": "scatter_-2_-1_0_col.pfm",
+        "count": 227509,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                -64.3509635925293,
+                -1.2597084045410156,
+                25.000712394714355
+            ],
+            "radius": 28.852803647893296
+        }
+    },
+    {
+        "id": "-2_-1_1",
+        "texture_pos": "scatter_-2_-1_1_pos.pfm",
+        "texture_col": "scatter_-2_-1_1_col.pfm",
+        "count": 63269,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -64.32261276245117,
+                -1.2596752643585205,
+                56.64738845825195
+            ],
+            "radius": 15.835258890464301
+        }
+    },
+    {
+        "id": "-2_0_-1",
+        "texture_pos": "scatter_-2_0_-1_pos.pfm",
+        "texture_col": "scatter_-2_0_-1_col.pfm",
+        "count": 492834,
+        "texture_size": 1024,
+        "bounds": {
+            "center": [
+                -64.35097122192383,
+                1.8027616739273071,
+                -25.000069618225098
+            ],
+            "radius": 28.882066733111834
+        }
+    },
+    {
+        "id": "-2_0_-2",
+        "texture_pos": "scatter_-2_0_-2_pos.pfm",
+        "texture_col": "scatter_-2_0_-2_col.pfm",
+        "count": 115584,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                -64.31515693664551,
+                4.399831771850586,
+                -60.68379592895508
+            ],
+            "radius": 18.132088848006013
+        }
+    },
+    {
+        "id": "-2_0_0",
+        "texture_pos": "scatter_-2_0_0_pos.pfm",
+        "texture_col": "scatter_-2_0_0_col.pfm",
+        "count": 248694,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                -64.34005355834961,
+                1.0374491214752197,
+                24.99994945526123
+            ],
+            "radius": 28.839317696633817
+        }
+    },
+    {
+        "id": "-2_0_1",
+        "texture_pos": "scatter_-2_0_1_pos.pfm",
+        "texture_col": "scatter_-2_0_1_col.pfm",
+        "count": 19107,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -56.44075012207031,
+                0.43400144577026367,
+                56.088890075683594
+            ],
+            "radius": 8.86763778681307
+        }
+    },
+    {
+        "id": "0_-1_-1",
+        "texture_pos": "scatter_0_-1_-1_pos.pfm",
+        "texture_col": "scatter_0_-1_-1_col.pfm",
+        "count": 23531,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                26.727222442626953,
+                -0.5401003360748291,
+                -9.346397399902344
+            ],
+            "radius": 19.53225302511804
+        }
+    },
+    {
+        "id": "0_-1_0",
+        "texture_pos": "scatter_0_-1_0_pos.pfm",
+        "texture_col": "scatter_0_-1_0_col.pfm",
+        "count": 88878,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                30.40544891357422,
+                -0.6153037548065186,
+                25.001070976257324
+            ],
+            "radius": 30.944805450393392
+        }
+    },
+    {
+        "id": "0_-1_1",
+        "texture_pos": "scatter_0_-1_1_pos.pfm",
+        "texture_col": "scatter_0_-1_1_col.pfm",
+        "count": 50820,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                31.466598510742188,
+                -0.8447887897491455,
+                56.658538818359375
+            ],
+            "radius": 19.71024378212623
+        }
+    },
+    {
+        "id": "0_0_-1",
+        "texture_pos": "scatter_0_0_-1_pos.pfm",
+        "texture_col": "scatter_0_0_-1_col.pfm",
+        "count": 717660,
+        "texture_size": 1024,
+        "bounds": {
+            "center": [
+                24.99997329711914,
+                3.224066972732544,
+                -24.999878883361816
+            ],
+            "radius": 35.50189185344635
+        }
+    },
+    {
+        "id": "0_0_-2",
+        "texture_pos": "scatter_0_0_-2_pos.pfm",
+        "texture_col": "scatter_0_0_-2_col.pfm",
+        "count": 181733,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                25.000293731689453,
+                3.4450899362564087,
+                -60.63279724121094
+            ],
+            "radius": 27.16680555952798
+        }
+    },
+    {
+        "id": "0_0_0",
+        "texture_pos": "scatter_0_0_0_pos.pfm",
+        "texture_col": "scatter_0_0_0_col.pfm",
+        "count": 735139,
+        "texture_size": 1024,
+        "bounds": {
+            "center": [
+                24.999980926513672,
+                1.4737019538879395,
+                24.999979972839355
+            ],
+            "radius": 35.38598633686486
+        }
+    },
+    {
+        "id": "0_0_1",
+        "texture_pos": "scatter_0_0_1_pos.pfm",
+        "texture_col": "scatter_0_0_1_col.pfm",
+        "count": 179062,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                25.000011444091797,
+                1.027259111404419,
+                56.65846252441406
+            ],
+            "radius": 25.891836892579537
+        }
+    },
+    {
+        "id": "1_-1_0",
+        "texture_pos": "scatter_1_-1_0_pos.pfm",
+        "texture_col": "scatter_1_-1_0_col.pfm",
+        "count": 1827,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                63.38661575317383,
+                -0.39165258407592773,
+                45.55207443237305
+            ],
+            "radius": 11.165622254509774
+        }
+    },
+    {
+        "id": "1_-1_1",
+        "texture_pos": "scatter_1_-1_1_pos.pfm",
+        "texture_col": "scatter_1_-1_1_col.pfm",
+        "count": 7555,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                54.91649627685547,
+                -0.2795681953430176,
+                56.486507415771484
+            ],
+            "radius": 8.13886660284477
+        }
+    },
+    {
+        "id": "1_0_-1",
+        "texture_pos": "scatter_1_0_-1_pos.pfm",
+        "texture_col": "scatter_1_0_-1_col.pfm",
+        "count": 249255,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                64.34592819213867,
+                3.065424680709839,
+                -25.00019931793213
+            ],
+            "radius": 28.853173392981436
+        }
+    },
+    {
+        "id": "1_0_-2",
+        "texture_pos": "scatter_1_0_-2_pos.pfm",
+        "texture_col": "scatter_1_0_-2_col.pfm",
+        "count": 104518,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                64.35102844238281,
+                3.5358558893203735,
+                -60.62519073486328
+            ],
+            "radius": 17.85636424520794
+        }
+    },
+    {
+        "id": "1_0_0",
+        "texture_pos": "scatter_1_0_0_pos.pfm",
+        "texture_col": "scatter_1_0_0_col.pfm",
+        "count": 511723,
+        "texture_size": 1024,
+        "bounds": {
+            "center": [
+                64.3389663696289,
+                2.4095966815948486,
+                25.000685691833496
+            ],
+            "radius": 28.920098180012978
+        }
+    },
+    {
+        "id": "1_0_1",
+        "texture_pos": "scatter_1_0_1_pos.pfm",
+        "texture_col": "scatter_1_0_1_col.pfm",
+        "count": 110404,
+        "texture_size": 512,
+        "bounds": {
+            "center": [
+                64.32253646850586,
+                1.645369052886963,
+                56.6639404296875
+            ],
+            "radius": 15.88225988232004
+        }
+    }
+]

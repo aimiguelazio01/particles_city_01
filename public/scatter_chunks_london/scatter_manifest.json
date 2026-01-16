@@ -1,0 +1,4877 @@
+[
+    {
+        "id": "-1_-1_-1",
+        "texture_pos": "scatter_-1_-1_-1_pos.pfm",
+        "texture_col": "scatter_-1_-1_-1_col.pfm",
+        "count": 11974,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -25.003891174681485,
+                -2.7915367586538196,
+                -25.002860153326765
+            ],
+            "radius": 35.45480074969695
+        }
+    },
+    {
+        "id": "-1_-1_-2",
+        "texture_pos": "scatter_-1_-1_-2_pos.pfm",
+        "texture_col": "scatter_-1_-1_-2_col.pfm",
+        "count": 10189,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -25.00106401089579,
+                -4.503988862037659,
+                -74.98723983764648
+            ],
+            "radius": 35.561602080441816
+        }
+    },
+    {
+        "id": "-1_-1_-3",
+        "texture_pos": "scatter_-1_-1_-3_pos.pfm",
+        "texture_col": "scatter_-1_-1_-3_col.pfm",
+        "count": 15100,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -25.010829728096724,
+                -3.7706553670577705,
+                -125.01169204711914
+            ],
+            "radius": 35.534369727432484
+        }
+    },
+    {
+        "id": "-1_-1_-4",
+        "texture_pos": "scatter_-1_-1_-4_pos.pfm",
+        "texture_col": "scatter_-1_-1_-4_col.pfm",
+        "count": 18922,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -25.000860901083797,
+                -3.5395442033186555,
+                -174.99887084960938
+            ],
+            "radius": 35.52541523031235
+        }
+    },
+    {
+        "id": "-1_-1_-5",
+        "texture_pos": "scatter_-1_-1_-5_pos.pfm",
+        "texture_col": "scatter_-1_-1_-5_col.pfm",
+        "count": 18080,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -25.000298065249808,
+                -2.663953199982643,
+                -224.99913787841797
+            ],
+            "radius": 35.43532143709146
+        }
+    },
+    {
+        "id": "-1_-1_-6",
+        "texture_pos": "scatter_-1_-1_-6_pos.pfm",
+        "texture_col": "scatter_-1_-1_-6_col.pfm",
+        "count": 10959,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -24.990345733644062,
+                -3.5821475982666016,
+                -262.9582061767578
+            ],
+            "radius": 28.188373350871796
+        }
+    },
+    {
+        "id": "-1_-1_0",
+        "texture_pos": "scatter_-1_-1_0_pos.pfm",
+        "texture_col": "scatter_-1_-1_0_col.pfm",
+        "count": 21313,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -24.99970465087972,
+                -4.264776153606363,
+                25.011064102873206
+            ],
+            "radius": 35.602925050518635
+        }
+    },
+    {
+        "id": "-1_-1_1",
+        "texture_pos": "scatter_-1_-1_1_pos.pfm",
+        "texture_col": "scatter_-1_-1_1_col.pfm",
+        "count": 17769,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -25.00032951356843,
+                -3.2011656500399113,
+                74.99984931945801
+            ],
+            "radius": 35.489113887445164
+        }
+    },
+    {
+        "id": "-1_-1_2",
+        "texture_pos": "scatter_-1_-1_2_pos.pfm",
+        "texture_col": "scatter_-1_-1_2_col.pfm",
+        "count": 11777,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -25.001438949722797,
+                -2.9670782014727592,
+                124.99894714355469
+            ],
+            "radius": 35.45913100076041
+        }
+    },
+    {
+        "id": "-1_-1_3",
+        "texture_pos": "scatter_-1_-1_3_pos.pfm",
+        "texture_col": "scatter_-1_-1_3_col.pfm",
+        "count": 15717,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -25.00256312568672,
+                -7.736832420370774,
+                175.00283813476562
+            ],
+            "radius": 36.18614034111849
+        }
+    },
+    {
+        "id": "-1_-1_4",
+        "texture_pos": "scatter_-1_-1_4_pos.pfm",
+        "texture_col": "scatter_-1_-1_4_col.pfm",
+        "count": 15703,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -24.999750839313492,
+                -4.471620227821404,
+                224.99928283691406
+            ],
+            "radius": 35.63005954246288
+        }
+    },
+    {
+        "id": "-1_-1_5",
+        "texture_pos": "scatter_-1_-1_5_pos.pfm",
+        "texture_col": "scatter_-1_-1_5_col.pfm",
+        "count": 8739,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -24.992611114517786,
+                -3.4740705146832624,
+                262.8122100830078
+            ],
+            "radius": 28.295553325108713
+        }
+    },
+    {
+        "id": "-1_0_-1",
+        "texture_pos": "scatter_-1_0_-1_pos.pfm",
+        "texture_col": "scatter_-1_0_-1_col.pfm",
+        "count": 43,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -6.91887541115284,
+                1.2018779497593641,
+                -14.433446384966373
+            ],
+            "radius": 15.866418364075273
+        }
+    },
+    {
+        "id": "-1_0_-3",
+        "texture_pos": "scatter_-1_0_-3_pos.pfm",
+        "texture_col": "scatter_-1_0_-3_col.pfm",
+        "count": 2037,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -16.970984239131212,
+                2.9712461987510324,
+                -127.98684310913086
+            ],
+            "radius": 27.887519807832412
+        }
+    },
+    {
+        "id": "-1_0_-4",
+        "texture_pos": "scatter_-1_0_-4_pos.pfm",
+        "texture_col": "scatter_-1_0_-4_col.pfm",
+        "count": 1017,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -17.11222006380558,
+                1.3669717112206854,
+                -170.13111114501953
+            ],
+            "radius": 26.42253554467422
+        }
+    },
+    {
+        "id": "-1_0_-5",
+        "texture_pos": "scatter_-1_0_-5_pos.pfm",
+        "texture_col": "scatter_-1_0_-5_col.pfm",
+        "count": 155,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -49.21632957458496,
+                0.9266211166977882,
+                -244.421630859375
+            ],
+            "radius": 1.680990539899005
+        }
+    },
+    {
+        "id": "-1_0_0",
+        "texture_pos": "scatter_-1_0_0_pos.pfm",
+        "texture_col": "scatter_-1_0_0_col.pfm",
+        "count": 1158,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -29.84198522567749,
+                3.007466886541806,
+                25.13621962070465
+            ],
+            "radius": 31.798807084171877
+        }
+    },
+    {
+        "id": "-1_0_1",
+        "texture_pos": "scatter_-1_0_1_pos.pfm",
+        "texture_col": "scatter_-1_0_1_col.pfm",
+        "count": 452,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -38.931939125061035,
+                3.0069082317495486,
+                54.94040870666504
+            ],
+            "radius": 11.175979416424584
+        }
+    },
+    {
+        "id": "-1_0_2",
+        "texture_pos": "scatter_-1_0_2_pos.pfm",
+        "texture_col": "scatter_-1_0_2_col.pfm",
+        "count": 2,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -29.35679817199707,
+                0.14771778136491776,
+                149.68260192871094
+            ],
+            "radius": 0.6050517903675375
+        }
+    },
+    {
+        "id": "-1_0_3",
+        "texture_pos": "scatter_-1_0_3_pos.pfm",
+        "texture_col": "scatter_-1_0_3_col.pfm",
+        "count": 371,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -26.584174036979675,
+                0.9890459195012227,
+                174.74260711669922
+            ],
+            "radius": 33.88353874217679
+        }
+    },
+    {
+        "id": "-1_0_4",
+        "texture_pos": "scatter_-1_0_4_pos.pfm",
+        "texture_col": "scatter_-1_0_4_col.pfm",
+        "count": 1755,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -25.028594989329576,
+                2.132935562134662,
+                225.72686767578125
+            ],
+            "radius": 34.86737986622517
+        }
+    },
+    {
+        "id": "-1_0_5",
+        "texture_pos": "scatter_-1_0_5_pos.pfm",
+        "texture_col": "scatter_-1_0_5_col.pfm",
+        "count": 1921,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -25.032360263168812,
+                2.7171447506116237,
+                262.80945587158203
+            ],
+            "radius": 28.17930506805911
+        }
+    },
+    {
+        "id": "-2_-1_-1",
+        "texture_pos": "scatter_-2_-1_-1_pos.pfm",
+        "texture_col": "scatter_-2_-1_-1_col.pfm",
+        "count": 12239,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -74.99786186218262,
+                -2.7313930988311768,
+                -24.998876510653645
+            ],
+            "radius": 35.42132322277179
+        }
+    },
+    {
+        "id": "-2_-1_-2",
+        "texture_pos": "scatter_-2_-1_-2_pos.pfm",
+        "texture_col": "scatter_-2_-1_-2_col.pfm",
+        "count": 11859,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -75.00108337402344,
+                -3.5868946611881256,
+                -74.99597358703613
+            ],
+            "radius": 35.48189614818486
+        }
+    },
+    {
+        "id": "-2_-1_-3",
+        "texture_pos": "scatter_-2_-1_-3_pos.pfm",
+        "texture_col": "scatter_-2_-1_-3_col.pfm",
+        "count": 23746,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -74.99080276489258,
+                -4.245976444275584,
+                -125.00024032592773
+            ],
+            "radius": 35.599536293935856
+        }
+    },
+    {
+        "id": "-2_-1_-4",
+        "texture_pos": "scatter_-2_-1_-4_pos.pfm",
+        "texture_col": "scatter_-2_-1_-4_col.pfm",
+        "count": 17713,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -75.00011253356934,
+                -2.636748088989407,
+                -175.00018310546875
+            ],
+            "radius": 35.45204188064597
+        }
+    },
+    {
+        "id": "-2_-1_-5",
+        "texture_pos": "scatter_-2_-1_-5_pos.pfm",
+        "texture_col": "scatter_-2_-1_-5_col.pfm",
+        "count": 21718,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -74.99789237976074,
+                -2.543719311011955,
+                -225.00125122070312
+            ],
+            "radius": 35.44336179309356
+        }
+    },
+    {
+        "id": "-2_-1_-6",
+        "texture_pos": "scatter_-2_-1_-6_pos.pfm",
+        "texture_col": "scatter_-2_-1_-6_col.pfm",
+        "count": 10907,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -75.00106811523438,
+                -2.6810939610004425,
+                -262.93860626220703
+            ],
+            "radius": 28.206130727832942
+        }
+    },
+    {
+        "id": "-2_-1_0",
+        "texture_pos": "scatter_-2_-1_0_pos.pfm",
+        "texture_col": "scatter_-2_-1_0_col.pfm",
+        "count": 14008,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -74.99881362915039,
+                -4.890518135158345,
+                25.025954864919186
+            ],
+            "radius": 35.670769475569514
+        }
+    },
+    {
+        "id": "-2_-1_1",
+        "texture_pos": "scatter_-2_-1_1_pos.pfm",
+        "texture_col": "scatter_-2_-1_1_col.pfm",
+        "count": 18977,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -74.9971752166748,
+                -3.598866764070408,
+                75.0010986328125
+            ],
+            "radius": 35.53406210293282
+        }
+    },
+    {
+        "id": "-2_-1_2",
+        "texture_pos": "scatter_-2_-1_2_pos.pfm",
+        "texture_col": "scatter_-2_-1_2_col.pfm",
+        "count": 12232,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -74.99951934814453,
+                -2.7720620334148407,
+                125.00029754638672
+            ],
+            "radius": 35.43219287554684
+        }
+    },
+    {
+        "id": "-2_-1_3",
+        "texture_pos": "scatter_-2_-1_3_pos.pfm",
+        "texture_col": "scatter_-2_-1_3_col.pfm",
+        "count": 11602,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -75.00292587280273,
+                -2.2442614345636684,
+                175.00475311279297
+            ],
+            "radius": 35.41981416953422
+        }
+    },
+    {
+        "id": "-2_-1_4",
+        "texture_pos": "scatter_-2_-1_4_pos.pfm",
+        "texture_col": "scatter_-2_-1_4_col.pfm",
+        "count": 19442,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -74.9987678527832,
+                -5.525753273011105,
+                225.0003204345703
+            ],
+            "radius": 35.78016715800553
+        }
+    },
+    {
+        "id": "-2_-1_5",
+        "texture_pos": "scatter_-2_-1_5_pos.pfm",
+        "texture_col": "scatter_-2_-1_5_col.pfm",
+        "count": 9205,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -74.99870681762695,
+                -2.977880483638728,
+                263.0526351928711
+            ],
+            "radius": 28.356191158071898
+        }
+    },
+    {
+        "id": "-2_0_-3",
+        "texture_pos": "scatter_-2_0_-3_pos.pfm",
+        "texture_col": "scatter_-2_0_-3_col.pfm",
+        "count": 2868,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -83.77276992797852,
+                0.9578809008817188,
+                -127.89032745361328
+            ],
+            "radius": 21.13869395655448
+        }
+    },
+    {
+        "id": "-2_0_-4",
+        "texture_pos": "scatter_-2_0_-4_pos.pfm",
+        "texture_col": "scatter_-2_0_-4_col.pfm",
+        "count": 142,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -66.19125175476074,
+                0.6619746537216997,
+                -157.59732055664062
+            ],
+            "radius": 4.49939632230391
+        }
+    },
+    {
+        "id": "-2_0_-5",
+        "texture_pos": "scatter_-2_0_-5_pos.pfm",
+        "texture_col": "scatter_-2_0_-5_col.pfm",
+        "count": 206,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -53.002628326416016,
+                0.8996582236140966,
+                -245.4601593017578
+            ],
+            "radius": 3.8965140762786805
+        }
+    },
+    {
+        "id": "-2_0_0",
+        "texture_pos": "scatter_-2_0_0_pos.pfm",
+        "texture_col": "scatter_-2_0_0_col.pfm",
+        "count": 442,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -68.37378311157227,
+                1.8174317418597639,
+                43.08595657348633
+            ],
+            "radius": 19.08093004895272
+        }
+    },
+    {
+        "id": "-2_0_1",
+        "texture_pos": "scatter_-2_0_1_pos.pfm",
+        "texture_col": "scatter_-2_0_1_col.pfm",
+        "count": 1549,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -75.70100402832031,
+                1.925201311118144,
+                65.70026969909668
+            ],
+            "radius": 28.94969524448487
+        }
+    },
+    {
+        "id": "-2_0_3",
+        "texture_pos": "scatter_-2_0_3_pos.pfm",
+        "texture_col": "scatter_-2_0_3_col.pfm",
+        "count": 731,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -74.98967552185059,
+                0.7516640720423311,
+                177.07456970214844
+            ],
+            "radius": 33.86643495460122
+        }
+    },
+    {
+        "id": "-2_0_4",
+        "texture_pos": "scatter_-2_0_4_pos.pfm",
+        "texture_col": "scatter_-2_0_4_col.pfm",
+        "count": 1432,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -74.60870552062988,
+                1.56495420075953,
+                225.0193099975586
+            ],
+            "radius": 35.08115194951886
+        }
+    },
+    {
+        "id": "-2_0_5",
+        "texture_pos": "scatter_-2_0_5_pos.pfm",
+        "texture_col": "scatter_-2_0_5_col.pfm",
+        "count": 2121,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -74.9919261932373,
+                1.7540195961482823,
+                262.85306549072266
+            ],
+            "radius": 28.12628472775851
+        }
+    },
+    {
+        "id": "-3_-1_-1",
+        "texture_pos": "scatter_-3_-1_-1_pos.pfm",
+        "texture_col": "scatter_-3_-1_-1_col.pfm",
+        "count": 10934,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -124.99775695800781,
+                -2.7813883032649755,
+                -25.000500351190567
+            ],
+            "radius": 35.45114882205084
+        }
+    },
+    {
+        "id": "-3_-1_-2",
+        "texture_pos": "scatter_-3_-1_-2_pos.pfm",
+        "texture_col": "scatter_-3_-1_-2_col.pfm",
+        "count": 14657,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -125.00201034545898,
+                -3.587333225295879,
+                -75.00362014770508
+            ],
+            "radius": 35.53078468838413
+        }
+    },
+    {
+        "id": "-3_-1_-3",
+        "texture_pos": "scatter_-3_-1_-3_pos.pfm",
+        "texture_col": "scatter_-3_-1_-3_col.pfm",
+        "count": 16887,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -124.99364852905273,
+                -4.880160556815099,
+                -125.00010299682617
+            ],
+            "radius": 35.68353940544437
+        }
+    },
+    {
+        "id": "-3_-1_-4",
+        "texture_pos": "scatter_-3_-1_-4_pos.pfm",
+        "texture_col": "scatter_-3_-1_-4_col.pfm",
+        "count": 19248,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -124.99977111816406,
+                -2.843986392021179,
+                -175.001220703125
+            ],
+            "radius": 35.42898325154362
+        }
+    },
+    {
+        "id": "-3_-1_-5",
+        "texture_pos": "scatter_-3_-1_-5_pos.pfm",
+        "texture_col": "scatter_-3_-1_-5_col.pfm",
+        "count": 21273,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -125.00033187866211,
+                -2.421764684841037,
+                -224.9969024658203
+            ],
+            "radius": 35.43472974245631
+        }
+    },
+    {
+        "id": "-3_-1_-6",
+        "texture_pos": "scatter_-3_-1_-6_pos.pfm",
+        "texture_col": "scatter_-3_-1_-6_col.pfm",
+        "count": 10427,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -124.99872207641602,
+                -2.6162819266319275,
+                -263.13414764404297
+            ],
+            "radius": 28.29611772011883
+        }
+    },
+    {
+        "id": "-3_-1_0",
+        "texture_pos": "scatter_-3_-1_0_pos.pfm",
+        "texture_col": "scatter_-3_-1_0_col.pfm",
+        "count": 19825,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -125.00080108642578,
+                -3.604155340231955,
+                24.99539166264003
+            ],
+            "radius": 35.53178376282343
+        }
+    },
+    {
+        "id": "-3_-1_1",
+        "texture_pos": "scatter_-3_-1_1_pos.pfm",
+        "texture_col": "scatter_-3_-1_1_col.pfm",
+        "count": 25100,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -124.99897003173828,
+                -4.824103897117311,
+                74.99990844726562
+            ],
+            "radius": 35.6812656849587
+        }
+    },
+    {
+        "id": "-3_-1_2",
+        "texture_pos": "scatter_-3_-1_2_pos.pfm",
+        "texture_col": "scatter_-3_-1_2_col.pfm",
+        "count": 13547,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -125.00341033935547,
+                -3.89217646420002,
+                124.99442672729492
+            ],
+            "radius": 35.51635143202233
+        }
+    },
+    {
+        "id": "-3_-1_3",
+        "texture_pos": "scatter_-3_-1_3_pos.pfm",
+        "texture_col": "scatter_-3_-1_3_col.pfm",
+        "count": 24668,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -125.00233840942383,
+                -4.42214343266096,
+                174.9996795654297
+            ],
+            "radius": 35.626285819542396
+        }
+    },
+    {
+        "id": "-3_-1_4",
+        "texture_pos": "scatter_-3_-1_4_pos.pfm",
+        "texture_col": "scatter_-3_-1_4_col.pfm",
+        "count": 19793,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -124.99958419799805,
+                -2.5071265048991336,
+                224.99908447265625
+            ],
+            "radius": 35.44035389178912
+        }
+    },
+    {
+        "id": "-3_-1_5",
+        "texture_pos": "scatter_-3_-1_5_pos.pfm",
+        "texture_col": "scatter_-3_-1_5_col.pfm",
+        "count": 12135,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -124.99722290039062,
+                -2.9781027222052217,
+                262.8564453125
+            ],
+            "radius": 28.260819552805195
+        }
+    },
+    {
+        "id": "-3_0_-1",
+        "texture_pos": "scatter_-3_0_-1_pos.pfm",
+        "texture_col": "scatter_-3_0_-1_col.pfm",
+        "count": 89,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -122.3615837097168,
+                0.9356270208954811,
+                -26.02590811252594
+            ],
+            "radius": 28.480650779882737
+        }
+    },
+    {
+        "id": "-3_0_-2",
+        "texture_pos": "scatter_-3_0_-2_pos.pfm",
+        "texture_col": "scatter_-3_0_-2_col.pfm",
+        "count": 7184,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -139.7076873779297,
+                7.740096092456952,
+                -74.57247161865234
+            ],
+            "radius": 27.31080463029824
+        }
+    },
+    {
+        "id": "-3_0_-3",
+        "texture_pos": "scatter_-3_0_-3_pos.pfm",
+        "texture_col": "scatter_-3_0_-3_col.pfm",
+        "count": 3086,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -124.11430358886719,
+                6.522904575394932,
+                -124.92399597167969
+            ],
+            "radius": 29.79694068334069
+        }
+    },
+    {
+        "id": "-3_0_-5",
+        "texture_pos": "scatter_-3_0_-5_pos.pfm",
+        "texture_col": "scatter_-3_0_-5_col.pfm",
+        "count": 23,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -117.15928649902344,
+                0.10802051238715649,
+                -232.90522003173828
+            ],
+            "radius": 1.4369408948473814
+        }
+    },
+    {
+        "id": "-3_0_0",
+        "texture_pos": "scatter_-3_0_0_pos.pfm",
+        "texture_col": "scatter_-3_0_0_col.pfm",
+        "count": 7,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -148.6355743408203,
+                0.2968154475092888,
+                2.6370314359664917
+            ],
+            "radius": 0.7736209333421066
+        }
+    },
+    {
+        "id": "-3_0_1",
+        "texture_pos": "scatter_-3_0_1_pos.pfm",
+        "texture_col": "scatter_-3_0_1_col.pfm",
+        "count": 654,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -122.8199462890625,
+                1.5870850009960122,
+                73.63011360168457
+            ],
+            "radius": 30.536858970212233
+        }
+    },
+    {
+        "id": "-3_0_3",
+        "texture_pos": "scatter_-3_0_3_pos.pfm",
+        "texture_col": "scatter_-3_0_3_col.pfm",
+        "count": 444,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -124.48810195922852,
+                1.6490703659364954,
+                179.14867401123047
+            ],
+            "radius": 32.171864984882724
+        }
+    },
+    {
+        "id": "-3_0_4",
+        "texture_pos": "scatter_-3_0_4_pos.pfm",
+        "texture_col": "scatter_-3_0_4_col.pfm",
+        "count": 1007,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -124.89869689941406,
+                1.6971837148885243,
+                225.00799560546875
+            ],
+            "radius": 32.88913200716534
+        }
+    },
+    {
+        "id": "-3_0_5",
+        "texture_pos": "scatter_-3_0_5_pos.pfm",
+        "texture_col": "scatter_-3_0_5_col.pfm",
+        "count": 2902,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -124.77225112915039,
+                4.441122459415055,
+                262.8460464477539
+            ],
+            "radius": 28.201494069500455
+        }
+    },
+    {
+        "id": "-4_-1_-1",
+        "texture_pos": "scatter_-4_-1_-1_pos.pfm",
+        "texture_col": "scatter_-4_-1_-1_col.pfm",
+        "count": 13567,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -174.99388122558594,
+                -3.757904443744337,
+                -24.99856317139347
+            ],
+            "radius": 35.54836533226606
+        }
+    },
+    {
+        "id": "-4_-1_-2",
+        "texture_pos": "scatter_-4_-1_-2_pos.pfm",
+        "texture_col": "scatter_-4_-1_-2_col.pfm",
+        "count": 14263,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -175.00048065185547,
+                -3.8236529541027267,
+                -74.99865913391113
+            ],
+            "radius": 35.55750783723108
+        }
+    },
+    {
+        "id": "-4_-1_-3",
+        "texture_pos": "scatter_-4_-1_-3_pos.pfm",
+        "texture_col": "scatter_-4_-1_-3_col.pfm",
+        "count": 15021,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -175.00334930419922,
+                -3.0670255720615387,
+                -125.00912857055664
+            ],
+            "radius": 35.47569568014779
+        }
+    },
+    {
+        "id": "-4_-1_-4",
+        "texture_pos": "scatter_-4_-1_-4_pos.pfm",
+        "texture_col": "scatter_-4_-1_-4_col.pfm",
+        "count": 21147,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -174.99969482421875,
+                -2.502958659082651,
+                -174.99905395507812
+            ],
+            "radius": 35.43471650875313
+        }
+    },
+    {
+        "id": "-4_-1_-5",
+        "texture_pos": "scatter_-4_-1_-5_pos.pfm",
+        "texture_col": "scatter_-4_-1_-5_col.pfm",
+        "count": 21765,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -175.00000762939453,
+                -2.3784692753106356,
+                -225.00091552734375
+            ],
+            "radius": 35.431858613177035
+        }
+    },
+    {
+        "id": "-4_-1_-6",
+        "texture_pos": "scatter_-4_-1_-6_pos.pfm",
+        "texture_col": "scatter_-4_-1_-6_col.pfm",
+        "count": 10928,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -175.00204467773438,
+                -2.3086710423231125,
+                -262.8959045410156
+            ],
+            "radius": 28.216365380153572
+        }
+    },
+    {
+        "id": "-4_-1_0",
+        "texture_pos": "scatter_-4_-1_0_pos.pfm",
+        "texture_col": "scatter_-4_-1_0_col.pfm",
+        "count": 14816,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -174.99900817871094,
+                -4.241687191650271,
+                24.99747026062687
+            ],
+            "radius": 35.60395134082989
+        }
+    },
+    {
+        "id": "-4_-1_1",
+        "texture_pos": "scatter_-4_-1_1_pos.pfm",
+        "texture_col": "scatter_-4_-1_1_col.pfm",
+        "count": 19403,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -174.99972534179688,
+                -3.4769903626292944,
+                74.99616050720215
+            ],
+            "radius": 35.519056950570636
+        }
+    },
+    {
+        "id": "-4_-1_2",
+        "texture_pos": "scatter_-4_-1_2_pos.pfm",
+        "texture_col": "scatter_-4_-1_2_col.pfm",
+        "count": 15441,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -175.00119018554688,
+                -3.3324982605408877,
+                125.00172805786133
+            ],
+            "radius": 35.50852155360796
+        }
+    },
+    {
+        "id": "-4_-1_3",
+        "texture_pos": "scatter_-4_-1_3_pos.pfm",
+        "texture_col": "scatter_-4_-1_3_col.pfm",
+        "count": 19493,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -174.99956512451172,
+                -3.6554952659935225,
+                175.00077056884766
+            ],
+            "radius": 35.54187178544109
+        }
+    },
+    {
+        "id": "-4_-1_4",
+        "texture_pos": "scatter_-4_-1_4_pos.pfm",
+        "texture_col": "scatter_-4_-1_4_col.pfm",
+        "count": 20186,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -174.99790954589844,
+                -2.376369808218442,
+                224.9989471435547
+            ],
+            "radius": 35.432219021736046
+        }
+    },
+    {
+        "id": "-4_-1_5",
+        "texture_pos": "scatter_-4_-1_5_pos.pfm",
+        "texture_col": "scatter_-4_-1_5_col.pfm",
+        "count": 10253,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -174.99557495117188,
+                -4.3005637397873215,
+                262.88329315185547
+            ],
+            "radius": 28.445841795514166
+        }
+    },
+    {
+        "id": "-4_0_-1",
+        "texture_pos": "scatter_-4_0_-1_pos.pfm",
+        "texture_col": "scatter_-4_0_-1_col.pfm",
+        "count": 815,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -176.55023193359375,
+                3.5932842998590786,
+                -24.987571001052856
+            ],
+            "radius": 30.633448050352587
+        }
+    },
+    {
+        "id": "-4_0_-2",
+        "texture_pos": "scatter_-4_0_-2_pos.pfm",
+        "texture_col": "scatter_-4_0_-2_col.pfm",
+        "count": 662,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -161.1981658935547,
+                6.247874454507837,
+                -76.15339469909668
+            ],
+            "radius": 26.97719197485215
+        }
+    },
+    {
+        "id": "-4_0_-3",
+        "texture_pos": "scatter_-4_0_-3_pos.pfm",
+        "texture_col": "scatter_-4_0_-3_col.pfm",
+        "count": 587,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -173.70729064941406,
+                6.209301262162626,
+                -111.43731689453125
+            ],
+            "radius": 25.12950589494576
+        }
+    },
+    {
+        "id": "-4_0_-4",
+        "texture_pos": "scatter_-4_0_-4_pos.pfm",
+        "texture_col": "scatter_-4_0_-4_col.pfm",
+        "count": 232,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -180.49069213867188,
+                0.8852578535443172,
+                -186.58145904541016
+            ],
+            "radius": 14.076287093342422
+        }
+    },
+    {
+        "id": "-4_0_-5",
+        "texture_pos": "scatter_-4_0_-5_pos.pfm",
+        "texture_col": "scatter_-4_0_-5_col.pfm",
+        "count": 90,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -154.43594360351562,
+                1.0911407256498933,
+                -206.3057632446289
+            ],
+            "radius": 2.107980526760097
+        }
+    },
+    {
+        "id": "-4_0_-6",
+        "texture_pos": "scatter_-4_0_-6_pos.pfm",
+        "texture_col": "scatter_-4_0_-6_col.pfm",
+        "count": 409,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -179.73131561279297,
+                1.243350634817034,
+                -265.4862365722656
+            ],
+            "radius": 16.778345324460222
+        }
+    },
+    {
+        "id": "-4_0_0",
+        "texture_pos": "scatter_-4_0_0_pos.pfm",
+        "texture_col": "scatter_-4_0_0_col.pfm",
+        "count": 113,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -189.5279769897461,
+                0.7190918240812607,
+                9.193860054016113
+            ],
+            "radius": 1.6994108730793687
+        }
+    },
+    {
+        "id": "-4_0_1",
+        "texture_pos": "scatter_-4_0_1_pos.pfm",
+        "texture_col": "scatter_-4_0_1_col.pfm",
+        "count": 522,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -178.7385711669922,
+                2.5816163406707346,
+                73.25608253479004
+            ],
+            "radius": 25.704516038638516
+        }
+    },
+    {
+        "id": "-4_0_2",
+        "texture_pos": "scatter_-4_0_2_pos.pfm",
+        "texture_col": "scatter_-4_0_2_col.pfm",
+        "count": 399,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -181.7852554321289,
+                4.538143585232319,
+                125.25755310058594
+            ],
+            "radius": 30.89823015615349
+        }
+    },
+    {
+        "id": "-4_0_3",
+        "texture_pos": "scatter_-4_0_3_pos.pfm",
+        "texture_col": "scatter_-4_0_3_col.pfm",
+        "count": 683,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -177.59760284423828,
+                0.7698125252791215,
+                175.70526123046875
+            ],
+            "radius": 21.826147490234707
+        }
+    },
+    {
+        "id": "-4_0_4",
+        "texture_pos": "scatter_-4_0_4_pos.pfm",
+        "texture_col": "scatter_-4_0_4_col.pfm",
+        "count": 529,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -184.71991729736328,
+                1.5101797199458815,
+                225.2618408203125
+            ],
+            "radius": 29.06212270795398
+        }
+    },
+    {
+        "id": "-4_0_5",
+        "texture_pos": "scatter_-4_0_5_pos.pfm",
+        "texture_col": "scatter_-4_0_5_col.pfm",
+        "count": 1598,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -176.2587890625,
+                1.3666464958223514,
+                262.8872375488281
+            ],
+            "radius": 27.036320071851527
+        }
+    },
+    {
+        "id": "-5_-1_-1",
+        "texture_pos": "scatter_-5_-1_-1_pos.pfm",
+        "texture_col": "scatter_-5_-1_-1_col.pfm",
+        "count": 13680,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -225.00282287597656,
+                -2.682609010487795,
+                -24.999922134447843
+            ],
+            "radius": 35.44720620655099
+        }
+    },
+    {
+        "id": "-5_-1_-2",
+        "texture_pos": "scatter_-5_-1_-2_pos.pfm",
+        "texture_col": "scatter_-5_-1_-2_col.pfm",
+        "count": 16427,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -225.00460052490234,
+                -3.6081657810718752,
+                -75.0011043548584
+            ],
+            "radius": 35.52939977495156
+        }
+    },
+    {
+        "id": "-5_-1_-3",
+        "texture_pos": "scatter_-5_-1_-3_pos.pfm",
+        "texture_col": "scatter_-5_-1_-3_col.pfm",
+        "count": 13637,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -225.00838470458984,
+                -3.1895724684000015,
+                -125.00097274780273
+            ],
+            "radius": 35.47396193055497
+        }
+    },
+    {
+        "id": "-5_-1_-4",
+        "texture_pos": "scatter_-5_-1_-4_pos.pfm",
+        "texture_col": "scatter_-5_-1_-4_col.pfm",
+        "count": 21078,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -224.99785614013672,
+                -2.4874254995957017,
+                -175.0001449584961
+            ],
+            "radius": 35.43744868969795
+        }
+    },
+    {
+        "id": "-5_-1_-5",
+        "texture_pos": "scatter_-5_-1_-5_pos.pfm",
+        "texture_col": "scatter_-5_-1_-5_col.pfm",
+        "count": 21536,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -225.00001525878906,
+                -3.2150495052337646,
+                -224.99810028076172
+            ],
+            "radius": 35.385576201973905
+        }
+    },
+    {
+        "id": "-5_-1_-6",
+        "texture_pos": "scatter_-5_-1_-6_pos.pfm",
+        "texture_col": "scatter_-5_-1_-6_col.pfm",
+        "count": 10758,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -225.00141143798828,
+                -2.773954675765708,
+                -262.86670684814453
+            ],
+            "radius": 28.250652658745043
+        }
+    },
+    {
+        "id": "-5_-1_0",
+        "texture_pos": "scatter_-5_-1_0_pos.pfm",
+        "texture_col": "scatter_-5_-1_0_col.pfm",
+        "count": 13909,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -225.0017547607422,
+                -3.22863432765007,
+                25.003094451967627
+            ],
+            "radius": 35.428847864659204
+        }
+    },
+    {
+        "id": "-5_-1_1",
+        "texture_pos": "scatter_-5_-1_1_pos.pfm",
+        "texture_col": "scatter_-5_-1_1_col.pfm",
+        "count": 17973,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -224.99982452392578,
+                -4.025135932955891,
+                75.00442695617676
+            ],
+            "radius": 35.57933807151155
+        }
+    },
+    {
+        "id": "-5_-1_2",
+        "texture_pos": "scatter_-5_-1_2_pos.pfm",
+        "texture_col": "scatter_-5_-1_2_col.pfm",
+        "count": 20197,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -225.0013885498047,
+                -4.135752899223007,
+                124.99669647216797
+            ],
+            "radius": 35.59254588069689
+        }
+    },
+    {
+        "id": "-5_-1_3",
+        "texture_pos": "scatter_-5_-1_3_pos.pfm",
+        "texture_col": "scatter_-5_-1_3_col.pfm",
+        "count": 11736,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -225.00216674804688,
+                -3.842149168252945,
+                174.99859619140625
+            ],
+            "radius": 35.526220162175434
+        }
+    },
+    {
+        "id": "-5_-1_4",
+        "texture_pos": "scatter_-5_-1_4_pos.pfm",
+        "texture_col": "scatter_-5_-1_4_col.pfm",
+        "count": 20522,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -225.0019760131836,
+                -3.2253501453524223,
+                225.00528717041016
+            ],
+            "radius": 35.49521834744672
+        }
+    },
+    {
+        "id": "-5_-1_5",
+        "texture_pos": "scatter_-5_-1_5_pos.pfm",
+        "texture_col": "scatter_-5_-1_5_col.pfm",
+        "count": 9091,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -225.00289154052734,
+                -1.9245904150302522,
+                262.91280364990234
+            ],
+            "radius": 28.19812479953076
+        }
+    },
+    {
+        "id": "-5_0_-1",
+        "texture_pos": "scatter_-5_0_-1_pos.pfm",
+        "texture_col": "scatter_-5_0_-1_col.pfm",
+        "count": 77,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -225.1125717163086,
+                0.3771914131939411,
+                -25.630595207214355
+            ],
+            "radius": 26.911414123972058
+        }
+    },
+    {
+        "id": "-5_0_-2",
+        "texture_pos": "scatter_-5_0_-2_pos.pfm",
+        "texture_col": "scatter_-5_0_-2_col.pfm",
+        "count": 63,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -232.99520111083984,
+                0.7397168388706632,
+                -79.06724548339844
+            ],
+            "radius": 8.361891788733182
+        }
+    },
+    {
+        "id": "-5_0_-3",
+        "texture_pos": "scatter_-5_0_-3_pos.pfm",
+        "texture_col": "scatter_-5_0_-3_col.pfm",
+        "count": 12,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -210.73831939697266,
+                0.6360009983181953,
+                -117.6078987121582
+            ],
+            "radius": 1.5151878283345253
+        }
+    },
+    {
+        "id": "-5_0_-4",
+        "texture_pos": "scatter_-5_0_-4_pos.pfm",
+        "texture_col": "scatter_-5_0_-4_col.pfm",
+        "count": 85,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -225.1976318359375,
+                0.9820195665815845,
+                -167.31360626220703
+            ],
+            "radius": 2.3827831807840685
+        }
+    },
+    {
+        "id": "-5_0_-6",
+        "texture_pos": "scatter_-5_0_-6_pos.pfm",
+        "texture_col": "scatter_-5_0_-6_col.pfm",
+        "count": 175,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -232.8765106201172,
+                1.2031533871777356,
+                -252.85755157470703
+            ],
+            "radius": 3.3792132468409832
+        }
+    },
+    {
+        "id": "-5_0_1",
+        "texture_pos": "scatter_-5_0_1_pos.pfm",
+        "texture_col": "scatter_-5_0_1_col.pfm",
+        "count": 563,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -221.66810607910156,
+                0.7874033308471553,
+                79.13000297546387
+            ],
+            "radius": 28.44096085138409
+        }
+    },
+    {
+        "id": "-5_0_2",
+        "texture_pos": "scatter_-5_0_2_pos.pfm",
+        "texture_col": "scatter_-5_0_2_col.pfm",
+        "count": 1323,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -218.41741943359375,
+                3.8349719734396785,
+                116.90772247314453
+            ],
+            "radius": 24.09184779261435
+        }
+    },
+    {
+        "id": "-5_0_3",
+        "texture_pos": "scatter_-5_0_3_pos.pfm",
+        "texture_col": "scatter_-5_0_3_col.pfm",
+        "count": 1,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -245.78103637695312,
+                0.28950393199920654,
+                162.75503540039062
+            ],
+            "radius": 0.0
+        }
+    },
+    {
+        "id": "-5_0_4",
+        "texture_pos": "scatter_-5_0_4_pos.pfm",
+        "texture_col": "scatter_-5_0_4_col.pfm",
+        "count": 1378,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -223.2730712890625,
+                1.5090566568542272,
+                226.97567749023438
+            ],
+            "radius": 32.7171171900215
+        }
+    },
+    {
+        "id": "-5_0_5",
+        "texture_pos": "scatter_-5_0_5_pos.pfm",
+        "texture_col": "scatter_-5_0_5_col.pfm",
+        "count": 246,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -224.98654174804688,
+                0.517788134602597,
+                262.9138488769531
+            ],
+            "radius": 28.110119158547576
+        }
+    },
+    {
+        "id": "-6_-1_-1",
+        "texture_pos": "scatter_-6_-1_-1_pos.pfm",
+        "texture_col": "scatter_-6_-1_-1_col.pfm",
+        "count": 20990,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -275.00157165527344,
+                -2.640978233423084,
+                -24.998336837801617
+            ],
+            "radius": 35.448980050903735
+        }
+    },
+    {
+        "id": "-6_-1_-2",
+        "texture_pos": "scatter_-6_-1_-2_pos.pfm",
+        "texture_col": "scatter_-6_-1_-2_col.pfm",
+        "count": 18400,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -274.9987030029297,
+                -3.5534772872924805,
+                -74.9990177154541
+            ],
+            "radius": 35.38775409412473
+        }
+    },
+    {
+        "id": "-6_-1_-3",
+        "texture_pos": "scatter_-6_-1_-3_pos.pfm",
+        "texture_col": "scatter_-6_-1_-3_col.pfm",
+        "count": 18772,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -275.00394439697266,
+                -2.6569518280157354,
+                -124.99917602539062
+            ],
+            "radius": 35.44840582371918
+        }
+    },
+    {
+        "id": "-6_-1_-4",
+        "texture_pos": "scatter_-6_-1_-4_pos.pfm",
+        "texture_col": "scatter_-6_-1_-4_col.pfm",
+        "count": 21388,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -274.9993896484375,
+                -2.6210103295743465,
+                -175.00009155273438
+            ],
+            "radius": 35.444694922258286
+        }
+    },
+    {
+        "id": "-6_-1_-5",
+        "texture_pos": "scatter_-6_-1_-5_pos.pfm",
+        "texture_col": "scatter_-6_-1_-5_col.pfm",
+        "count": 20907,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -275.0004577636719,
+                -3.3224600553512573,
+                -224.99903106689453
+            ],
+            "radius": 35.385338455648665
+        }
+    },
+    {
+        "id": "-6_-1_-6",
+        "texture_pos": "scatter_-6_-1_-6_pos.pfm",
+        "texture_col": "scatter_-6_-1_-6_col.pfm",
+        "count": 10701,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -274.9986114501953,
+                -3.166825830936432,
+                -262.8378677368164
+            ],
+            "radius": 28.134896081344984
+        }
+    },
+    {
+        "id": "-6_-1_0",
+        "texture_pos": "scatter_-6_-1_0_pos.pfm",
+        "texture_col": "scatter_-6_-1_0_col.pfm",
+        "count": 11293,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -275.0000762939453,
+                -2.8868483304977417,
+                24.995187942520715
+            ],
+            "radius": 35.432662644473496
+        }
+    },
+    {
+        "id": "-6_-1_1",
+        "texture_pos": "scatter_-6_-1_1_pos.pfm",
+        "texture_col": "scatter_-6_-1_1_col.pfm",
+        "count": 10175,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -275.00694274902344,
+                -3.076050989329815,
+                74.99983406066895
+            ],
+            "radius": 35.47106681250384
+        }
+    },
+    {
+        "id": "-6_-1_2",
+        "texture_pos": "scatter_-6_-1_2_pos.pfm",
+        "texture_col": "scatter_-6_-1_2_col.pfm",
+        "count": 16577,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -274.9947280883789,
+                -3.5505641880445182,
+                125.0002212524414
+            ],
+            "radius": 35.52136542974828
+        }
+    },
+    {
+        "id": "-6_-1_3",
+        "texture_pos": "scatter_-6_-1_3_pos.pfm",
+        "texture_col": "scatter_-6_-1_3_col.pfm",
+        "count": 12435,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -275.00182342529297,
+                -3.7175655176397413,
+                175.0030059814453
+            ],
+            "radius": 35.54100393664684
+        }
+    },
+    {
+        "id": "-6_-1_4",
+        "texture_pos": "scatter_-6_-1_4_pos.pfm",
+        "texture_col": "scatter_-6_-1_4_col.pfm",
+        "count": 22874,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -274.9994812011719,
+                -4.124729778326582,
+                224.99845123291016
+            ],
+            "radius": 35.592173010770296
+        }
+    },
+    {
+        "id": "-6_-1_5",
+        "texture_pos": "scatter_-6_-1_5_pos.pfm",
+        "texture_col": "scatter_-6_-1_5_col.pfm",
+        "count": 8042,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -274.9992904663086,
+                -4.126974327111384,
+                262.9483871459961
+            ],
+            "radius": 28.451976869664456
+        }
+    },
+    {
+        "id": "-6_0_-1",
+        "texture_pos": "scatter_-6_0_-1_pos.pfm",
+        "texture_col": "scatter_-6_0_-1_col.pfm",
+        "count": 461,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -268.1464157104492,
+                1.0004795575514436,
+                -23.787150382995605
+            ],
+            "radius": 19.168278714641342
+        }
+    },
+    {
+        "id": "-6_0_-3",
+        "texture_pos": "scatter_-6_0_-3_pos.pfm",
+        "texture_col": "scatter_-6_0_-3_col.pfm",
+        "count": 11,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -297.05035400390625,
+                0.10087793238926679,
+                -114.17985153198242
+            ],
+            "radius": 0.8728926309788934
+        }
+    },
+    {
+        "id": "-6_0_-4",
+        "texture_pos": "scatter_-6_0_-4_pos.pfm",
+        "texture_col": "scatter_-6_0_-4_col.pfm",
+        "count": 2,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -289.7268524169922,
+                0.592141643166542,
+                -171.78081512451172
+            ],
+            "radius": 0.25053936945034827
+        }
+    },
+    {
+        "id": "-6_0_1",
+        "texture_pos": "scatter_-6_0_1_pos.pfm",
+        "texture_col": "scatter_-6_0_1_col.pfm",
+        "count": 50,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -261.68516540527344,
+                1.3145616436377168,
+                64.81556510925293
+            ],
+            "radius": 3.22363804576875
+        }
+    },
+    {
+        "id": "-6_0_2",
+        "texture_pos": "scatter_-6_0_2_pos.pfm",
+        "texture_col": "scatter_-6_0_2_col.pfm",
+        "count": 148,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -278.7332305908203,
+                1.601992272422649,
+                130.4725570678711
+            ],
+            "radius": 26.044523509755752
+        }
+    },
+    {
+        "id": "-6_0_3",
+        "texture_pos": "scatter_-6_0_3_pos.pfm",
+        "texture_col": "scatter_-6_0_3_col.pfm",
+        "count": 1103,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -276.46400451660156,
+                5.794856788648758,
+                166.4857406616211
+            ],
+            "radius": 25.693976660256027
+        }
+    },
+    {
+        "id": "-6_0_4",
+        "texture_pos": "scatter_-6_0_4_pos.pfm",
+        "texture_col": "scatter_-6_0_4_col.pfm",
+        "count": 305,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -274.84020233154297,
+                1.1951016178209102,
+                239.07938385009766
+            ],
+            "radius": 26.070378728924002
+        }
+    },
+    {
+        "id": "-6_0_5",
+        "texture_pos": "scatter_-6_0_5_pos.pfm",
+        "texture_col": "scatter_-6_0_5_col.pfm",
+        "count": 633,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -275.0572280883789,
+                2.0818613796254795,
+                262.9774169921875
+            ],
+            "radius": 27.575165363654794
+        }
+    },
+    {
+        "id": "-7_-1_-1",
+        "texture_pos": "scatter_-7_-1_-1_pos.pfm",
+        "texture_col": "scatter_-7_-1_-1_col.pfm",
+        "count": 15875,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -325.0000762939453,
+                -5.093817455694079,
+                -25.00372845493257
+            ],
+            "radius": 35.70738159064839
+        }
+    },
+    {
+        "id": "-7_-1_-2",
+        "texture_pos": "scatter_-7_-1_-2_pos.pfm",
+        "texture_col": "scatter_-7_-1_-2_col.pfm",
+        "count": 21531,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -325.0008239746094,
+                -3.795056462287903,
+                -75.00381469726562
+            ],
+            "radius": 35.386344565949145
+        }
+    },
+    {
+        "id": "-7_-1_-3",
+        "texture_pos": "scatter_-7_-1_-3_pos.pfm",
+        "texture_col": "scatter_-7_-1_-3_col.pfm",
+        "count": 22242,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -325.00050354003906,
+                -2.679977588704787,
+                -125.0009880065918
+            ],
+            "radius": 35.45346957822754
+        }
+    },
+    {
+        "id": "-7_-1_-4",
+        "texture_pos": "scatter_-7_-1_-4_pos.pfm",
+        "texture_col": "scatter_-7_-1_-4_col.pfm",
+        "count": 20735,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -324.9998016357422,
+                -2.627856984734535,
+                -174.99832153320312
+            ],
+            "radius": 35.446826044394825
+        }
+    },
+    {
+        "id": "-7_-1_-5",
+        "texture_pos": "scatter_-7_-1_-5_pos.pfm",
+        "texture_col": "scatter_-7_-1_-5_col.pfm",
+        "count": 22855,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -324.9991760253906,
+                -2.956761419773102,
+                -224.99998474121094
+            ],
+            "radius": 35.39645250071301
+        }
+    },
+    {
+        "id": "-7_-1_-6",
+        "texture_pos": "scatter_-7_-1_-6_pos.pfm",
+        "texture_col": "scatter_-7_-1_-6_col.pfm",
+        "count": 10898,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -325.00762939453125,
+                -2.659036695957184,
+                -262.8071060180664
+            ],
+            "radius": 28.145541410532587
+        }
+    },
+    {
+        "id": "-7_-1_0",
+        "texture_pos": "scatter_-7_-1_0_pos.pfm",
+        "texture_col": "scatter_-7_-1_0_col.pfm",
+        "count": 15498,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -325.00592041015625,
+                -3.7811277351574972,
+                24.997860168470652
+            ],
+            "radius": 35.54890029813287
+        }
+    },
+    {
+        "id": "-7_-1_1",
+        "texture_pos": "scatter_-7_-1_1_pos.pfm",
+        "texture_col": "scatter_-7_-1_1_col.pfm",
+        "count": 11025,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -325.00108337402344,
+                -3.400910295546055,
+                75.00076866149902
+            ],
+            "radius": 35.51319975060193
+        }
+    },
+    {
+        "id": "-7_-1_2",
+        "texture_pos": "scatter_-7_-1_2_pos.pfm",
+        "texture_col": "scatter_-7_-1_2_col.pfm",
+        "count": 16147,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -324.9993591308594,
+                -4.413924797059735,
+                125.0014877319336
+            ],
+            "radius": 35.6244836834444
+        }
+    },
+    {
+        "id": "-7_-1_3",
+        "texture_pos": "scatter_-7_-1_3_pos.pfm",
+        "texture_col": "scatter_-7_-1_3_col.pfm",
+        "count": 12150,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -324.99822998046875,
+                -4.649517277022824,
+                175.00189971923828
+            ],
+            "radius": 35.65416385949259
+        }
+    },
+    {
+        "id": "-7_-1_4",
+        "texture_pos": "scatter_-7_-1_4_pos.pfm",
+        "texture_col": "scatter_-7_-1_4_col.pfm",
+        "count": 24717,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                -325.0005340576172,
+                -5.666707904816576,
+                225.0041732788086
+            ],
+            "radius": 35.79632639630795
+        }
+    },
+    {
+        "id": "-7_-1_5",
+        "texture_pos": "scatter_-7_-1_5_pos.pfm",
+        "texture_col": "scatter_-7_-1_5_col.pfm",
+        "count": 13232,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -324.9969482421875,
+                -5.4393605003424454,
+                262.9776382446289
+            ],
+            "radius": 28.67922859616871
+        }
+    },
+    {
+        "id": "-7_0_-1",
+        "texture_pos": "scatter_-7_0_-1_pos.pfm",
+        "texture_col": "scatter_-7_0_-1_col.pfm",
+        "count": 362,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -332.3645782470703,
+                4.97659226320684,
+                -2.980890743259806
+            ],
+            "radius": 18.489963165228946
+        }
+    },
+    {
+        "id": "-7_0_-3",
+        "texture_pos": "scatter_-7_0_-3_pos.pfm",
+        "texture_col": "scatter_-7_0_-3_col.pfm",
+        "count": 93,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -325.39378356933594,
+                0.8126601991825737,
+                -130.39718627929688
+            ],
+            "radius": 31.45583332829734
+        }
+    },
+    {
+        "id": "-7_0_-4",
+        "texture_pos": "scatter_-7_0_-4_pos.pfm",
+        "texture_col": "scatter_-7_0_-4_col.pfm",
+        "count": 52,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -347.1184539794922,
+                0.7945927868131548,
+                -160.53568267822266
+            ],
+            "radius": 10.934026575431103
+        }
+    },
+    {
+        "id": "-7_0_0",
+        "texture_pos": "scatter_-7_0_0_pos.pfm",
+        "texture_col": "scatter_-7_0_0_col.pfm",
+        "count": 1340,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -335.1842956542969,
+                4.558563804626829,
+                25.012017151340842
+            ],
+            "radius": 29.36743395073568
+        }
+    },
+    {
+        "id": "-7_0_1",
+        "texture_pos": "scatter_-7_0_1_pos.pfm",
+        "texture_col": "scatter_-7_0_1_col.pfm",
+        "count": 92,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -324.75848388671875,
+                2.1669865492731333,
+                62.18142318725586
+            ],
+            "radius": 24.85291031819529
+        }
+    },
+    {
+        "id": "-7_0_2",
+        "texture_pos": "scatter_-7_0_2_pos.pfm",
+        "texture_col": "scatter_-7_0_2_col.pfm",
+        "count": 332,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -322.74839782714844,
+                1.875697350507835,
+                135.9772071838379
+            ],
+            "radius": 26.441043086533114
+        }
+    },
+    {
+        "id": "-7_0_3",
+        "texture_pos": "scatter_-7_0_3_pos.pfm",
+        "texture_col": "scatter_-7_0_3_col.pfm",
+        "count": 740,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -324.99664306640625,
+                5.858836437575519,
+                159.71084594726562
+            ],
+            "radius": 27.437134755676624
+        }
+    },
+    {
+        "id": "-7_0_4",
+        "texture_pos": "scatter_-7_0_4_pos.pfm",
+        "texture_col": "scatter_-7_0_4_col.pfm",
+        "count": 465,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -326.8681640625,
+                3.081686601639376,
+                232.31951141357422
+            ],
+            "radius": 28.572092702269597
+        }
+    },
+    {
+        "id": "-7_0_5",
+        "texture_pos": "scatter_-7_0_5_pos.pfm",
+        "texture_col": "scatter_-7_0_5_col.pfm",
+        "count": 233,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -326.9583282470703,
+                0.8334316558848514,
+                262.9905471801758
+            ],
+            "radius": 26.383061815441224
+        }
+    },
+    {
+        "id": "-8_-1_-1",
+        "texture_pos": "scatter_-8_-1_-1_pos.pfm",
+        "texture_col": "scatter_-8_-1_-1_col.pfm",
+        "count": 8759,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.09326171875,
+                -5.09297981671989,
+                -25.014946427196264
+            ],
+            "radius": 29.62302199668218
+        }
+    },
+    {
+        "id": "-8_-1_-2",
+        "texture_pos": "scatter_-8_-1_-2_pos.pfm",
+        "texture_col": "scatter_-8_-1_-2_col.pfm",
+        "count": 12340,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.1286163330078,
+                -3.881473660469055,
+                -75.0009651184082
+            ],
+            "radius": 29.258093206770702
+        }
+    },
+    {
+        "id": "-8_-1_-3",
+        "texture_pos": "scatter_-8_-1_-3_pos.pfm",
+        "texture_col": "scatter_-8_-1_-3_col.pfm",
+        "count": 12453,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.1696319580078,
+                -2.781207114458084,
+                -124.99898147583008
+            ],
+            "radius": 29.353375909416634
+        }
+    },
+    {
+        "id": "-8_-1_-4",
+        "texture_pos": "scatter_-8_-1_-4_pos.pfm",
+        "texture_col": "scatter_-8_-1_-4_col.pfm",
+        "count": 8691,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.20826721191406,
+                -3.0008003978873603,
+                -174.99465942382812
+            ],
+            "radius": 29.404266499560237
+        }
+    },
+    {
+        "id": "-8_-1_-5",
+        "texture_pos": "scatter_-8_-1_-5_pos.pfm",
+        "texture_col": "scatter_-8_-1_-5_col.pfm",
+        "count": 13112,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.23907470703125,
+                -3.1826188564300537,
+                -225.0005340576172
+            ],
+            "radius": 29.337967946096516
+        }
+    },
+    {
+        "id": "-8_-1_-6",
+        "texture_pos": "scatter_-8_-1_-6_pos.pfm",
+        "texture_col": "scatter_-8_-1_-6_col.pfm",
+        "count": 6419,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.25865173339844,
+                -2.6320450603961945,
+                -262.7757034301758
+            ],
+            "radius": 19.97854026933323
+        }
+    },
+    {
+        "id": "-8_-1_0",
+        "texture_pos": "scatter_-8_-1_0_pos.pfm",
+        "texture_col": "scatter_-8_-1_0_col.pfm",
+        "count": 9901,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.0572052001953,
+                -3.3286408215062693,
+                25.018110260367393
+            ],
+            "radius": 29.35286118246862
+        }
+    },
+    {
+        "id": "-8_-1_1",
+        "texture_pos": "scatter_-8_-1_1_pos.pfm",
+        "texture_col": "scatter_-8_-1_1_col.pfm",
+        "count": 6453,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -365.0193328857422,
+                -3.383079171180725,
+                74.99292373657227
+            ],
+            "radius": 29.247385675354035
+        }
+    },
+    {
+        "id": "-8_-1_2",
+        "texture_pos": "scatter_-8_-1_2_pos.pfm",
+        "texture_col": "scatter_-8_-1_2_col.pfm",
+        "count": 9033,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -364.9829864501953,
+                -3.3331583738327026,
+                124.99994659423828
+            ],
+            "radius": 29.256517979075692
+        }
+    },
+    {
+        "id": "-8_-1_3",
+        "texture_pos": "scatter_-8_-1_3_pos.pfm",
+        "texture_col": "scatter_-8_-1_3_col.pfm",
+        "count": 9946,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -364.94677734375,
+                -3.5155597171979025,
+                174.994384765625
+            ],
+            "radius": 29.331382305139044
+        }
+    },
+    {
+        "id": "-8_-1_4",
+        "texture_pos": "scatter_-8_-1_4_pos.pfm",
+        "texture_col": "scatter_-8_-1_4_col.pfm",
+        "count": 6595,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                -364.91209411621094,
+                -3.5344995884224772,
+                224.99979400634766
+            ],
+            "radius": 29.31858708543083
+        }
+    },
+    {
+        "id": "-8_-1_5",
+        "texture_pos": "scatter_-8_-1_5_pos.pfm",
+        "texture_col": "scatter_-8_-1_5_col.pfm",
+        "count": 2856,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -364.8749237060547,
+                -4.474402347579598,
+                263.2297897338867
+            ],
+            "radius": 20.39924500078634
+        }
+    },
+    {
+        "id": "-8_0_-1",
+        "texture_pos": "scatter_-8_0_-1_pos.pfm",
+        "texture_col": "scatter_-8_0_-1_col.pfm",
+        "count": 90,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -355.2692565917969,
+                2.6726573556661606,
+                -7.539953671395779
+            ],
+            "radius": 9.440533303158988
+        }
+    },
+    {
+        "id": "-8_0_-3",
+        "texture_pos": "scatter_-8_0_-3_pos.pfm",
+        "texture_col": "scatter_-8_0_-3_col.pfm",
+        "count": 56,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -353.7396545410156,
+                0.6657637124881148,
+                -149.44535064697266
+            ],
+            "radius": 3.8241179944585157
+        }
+    },
+    {
+        "id": "-8_0_-4",
+        "texture_pos": "scatter_-8_0_-4_pos.pfm",
+        "texture_col": "scatter_-8_0_-4_col.pfm",
+        "count": 127,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -362.24261474609375,
+                0.8043018076568842,
+                -157.40748596191406
+            ],
+            "radius": 14.230072799710156
+        }
+    },
+    {
+        "id": "-8_0_0",
+        "texture_pos": "scatter_-8_0_0_pos.pfm",
+        "texture_col": "scatter_-8_0_0_col.pfm",
+        "count": 306,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -362.10887145996094,
+                1.6577364208642393,
+                12.540860269218683
+            ],
+            "radius": 17.395688659971356
+        }
+    },
+    {
+        "id": "-8_0_3",
+        "texture_pos": "scatter_-8_0_3_pos.pfm",
+        "texture_col": "scatter_-8_0_3_col.pfm",
+        "count": 157,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -358.6538848876953,
+                0.7030078406678513,
+                158.997802734375
+            ],
+            "radius": 10.043496041435466
+        }
+    },
+    {
+        "id": "-8_0_4",
+        "texture_pos": "scatter_-8_0_4_pos.pfm",
+        "texture_col": "scatter_-8_0_4_col.pfm",
+        "count": 12,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -365.44720458984375,
+                0.2601904449984431,
+                239.7645263671875
+            ],
+            "radius": 16.864582537908525
+        }
+    },
+    {
+        "id": "-8_0_5",
+        "texture_pos": "scatter_-8_0_5_pos.pfm",
+        "texture_col": "scatter_-8_0_5_col.pfm",
+        "count": 417,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                -364.86981201171875,
+                2.4075900517054833,
+                263.2905807495117
+            ],
+            "radius": 20.001246283587307
+        }
+    },
+    {
+        "id": "0_-1_-1",
+        "texture_pos": "scatter_0_-1_-1_pos.pfm",
+        "texture_col": "scatter_0_-1_-1_col.pfm",
+        "count": 16448,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                25.02446946874261,
+                -2.6309127109125257,
+                -25.005329239182174
+            ],
+            "radius": 35.419686629930396
+        }
+    },
+    {
+        "id": "0_-1_-2",
+        "texture_pos": "scatter_0_-1_-2_pos.pfm",
+        "texture_col": "scatter_0_-1_-2_col.pfm",
+        "count": 12492,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                25.010625580325723,
+                -2.96016900613904,
+                -75.00055122375488
+            ],
+            "radius": 35.46485495835522
+        }
+    },
+    {
+        "id": "0_-1_-3",
+        "texture_pos": "scatter_0_-1_-3_pos.pfm",
+        "texture_col": "scatter_0_-1_-3_col.pfm",
+        "count": 16266,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                25.005454941187054,
+                -3.151833526790142,
+                -125.00485229492188
+            ],
+            "radius": 35.48380801609327
+        }
+    },
+    {
+        "id": "0_-1_-4",
+        "texture_pos": "scatter_0_-1_-4_pos.pfm",
+        "texture_col": "scatter_0_-1_-4_col.pfm",
+        "count": 10871,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                24.998173858642986,
+                -3.092434744350612,
+                -175.00341796875
+            ],
+            "radius": 35.482899236401195
+        }
+    },
+    {
+        "id": "0_-1_-5",
+        "texture_pos": "scatter_0_-1_-5_pos.pfm",
+        "texture_col": "scatter_0_-1_-5_col.pfm",
+        "count": 19079,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                24.997828491264954,
+                -2.8441906394436955,
+                -225.00238037109375
+            ],
+            "radius": 35.46209604522015
+        }
+    },
+    {
+        "id": "0_-1_-6",
+        "texture_pos": "scatter_0_-1_-6_pos.pfm",
+        "texture_col": "scatter_0_-1_-6_col.pfm",
+        "count": 10703,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                24.997516845716746,
+                -3.6850451231002808,
+                -262.976806640625
+            ],
+            "radius": 28.195810393302818
+        }
+    },
+    {
+        "id": "0_-1_0",
+        "texture_pos": "scatter_0_-1_0_pos.pfm",
+        "texture_col": "scatter_0_-1_0_col.pfm",
+        "count": 11730,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                25.00139245612081,
+                -2.8231765031814575,
+                25.01151724345982
+            ],
+            "radius": 35.37863415301881
+        }
+    },
+    {
+        "id": "0_-1_1",
+        "texture_pos": "scatter_0_-1_1_pos.pfm",
+        "texture_col": "scatter_0_-1_1_col.pfm",
+        "count": 13696,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                24.99997032165993,
+                -2.6467204456566833,
+                74.99872398376465
+            ],
+            "radius": 35.451059331687546
+        }
+    },
+    {
+        "id": "0_-1_2",
+        "texture_pos": "scatter_0_-1_2_pos.pfm",
+        "texture_col": "scatter_0_-1_2_col.pfm",
+        "count": 12069,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                24.999486297601834,
+                -2.1935548344044946,
+                124.99950790405273
+            ],
+            "radius": 35.4159209168795
+        }
+    },
+    {
+        "id": "0_-1_3",
+        "texture_pos": "scatter_0_-1_3_pos.pfm",
+        "texture_col": "scatter_0_-1_3_col.pfm",
+        "count": 11881,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                24.997829208383337,
+                -1.914439543732442,
+                175.00569915771484
+            ],
+            "radius": 35.397670122872405
+        }
+    },
+    {
+        "id": "0_-1_4",
+        "texture_pos": "scatter_0_-1_4_pos.pfm",
+        "texture_col": "scatter_0_-1_4_col.pfm",
+        "count": 10861,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                24.997719024773687,
+                -3.472776155482279,
+                225.00167083740234
+            ],
+            "radius": 35.51958553814932
+        }
+    },
+    {
+        "id": "0_-1_5",
+        "texture_pos": "scatter_0_-1_5_pos.pfm",
+        "texture_col": "scatter_0_-1_5_col.pfm",
+        "count": 6598,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                24.99995336937718,
+                -3.7736724357819185,
+                262.79491424560547
+            ],
+            "radius": 28.327413731397627
+        }
+    },
+    {
+        "id": "0_0_-1",
+        "texture_pos": "scatter_0_0_-1_pos.pfm",
+        "texture_col": "scatter_0_0_-1_col.pfm",
+        "count": 82,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                3.7025469541549683,
+                0.7256836467422545,
+                -30.246094703674316
+            ],
+            "radius": 16.23876888807206
+        }
+    },
+    {
+        "id": "0_0_-2",
+        "texture_pos": "scatter_0_0_-2_pos.pfm",
+        "texture_col": "scatter_0_0_-2_col.pfm",
+        "count": 11,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                3.0223283618688583,
+                0.5106972977519035,
+                -67.15729904174805
+            ],
+            "radius": 8.192531146829415
+        }
+    },
+    {
+        "id": "0_0_-3",
+        "texture_pos": "scatter_0_0_-3_pos.pfm",
+        "texture_col": "scatter_0_0_-3_col.pfm",
+        "count": 68,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                1.924203235656023,
+                0.4568467098288238,
+                -140.20497131347656
+            ],
+            "radius": 9.664208856001794
+        }
+    },
+    {
+        "id": "0_0_-4",
+        "texture_pos": "scatter_0_0_-4_pos.pfm",
+        "texture_col": "scatter_0_0_-4_col.pfm",
+        "count": 2,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                0.08353125303983688,
+                0.16731153428554535,
+                -150.23104858398438
+            ],
+            "radius": 0.14475998244915914
+        }
+    },
+    {
+        "id": "0_0_-5",
+        "texture_pos": "scatter_0_0_-5_pos.pfm",
+        "texture_col": "scatter_0_0_-5_col.pfm",
+        "count": 9,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                49.709455490112305,
+                1.1031035780906677,
+                -211.23184204101562
+            ],
+            "radius": 1.2832204214119907
+        }
+    },
+    {
+        "id": "0_0_1",
+        "texture_pos": "scatter_0_0_1_pos.pfm",
+        "texture_col": "scatter_0_0_1_col.pfm",
+        "count": 40,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                25.9752197265625,
+                0.03158105775946751,
+                96.46578598022461
+            ],
+            "radius": 5.2124581919867055
+        }
+    },
+    {
+        "id": "0_0_2",
+        "texture_pos": "scatter_0_0_2_pos.pfm",
+        "texture_col": "scatter_0_0_2_col.pfm",
+        "count": 464,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                25.769673943519592,
+                3.454774545680266,
+                125.1265640258789
+            ],
+            "radius": 33.531798892703684
+        }
+    },
+    {
+        "id": "0_0_3",
+        "texture_pos": "scatter_0_0_3_pos.pfm",
+        "texture_col": "scatter_0_0_3_col.pfm",
+        "count": 1508,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                28.293002128601074,
+                0.9080869712852291,
+                175.05928802490234
+            ],
+            "radius": 33.059992805696446
+        }
+    },
+    {
+        "id": "0_0_4",
+        "texture_pos": "scatter_0_0_4_pos.pfm",
+        "texture_col": "scatter_0_0_4_col.pfm",
+        "count": 1308,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                25.108985990285873,
+                0.9103603715921054,
+                224.99368286132812
+            ],
+            "radius": 35.23188664924721
+        }
+    },
+    {
+        "id": "0_0_5",
+        "texture_pos": "scatter_0_0_5_pos.pfm",
+        "texture_col": "scatter_0_0_5_col.pfm",
+        "count": 1378,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                25.007689209654927,
+                0.5373505940660834,
+                262.0203857421875
+            ],
+            "radius": 27.71534004823759
+        }
+    },
+    {
+        "id": "1_-1_-1",
+        "texture_pos": "scatter_1_-1_-1_pos.pfm",
+        "texture_col": "scatter_1_-1_-1_col.pfm",
+        "count": 17861,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                74.99917411804199,
+                -2.8075210452079773,
+                -25.00745488004759
+            ],
+            "radius": 35.42996954917145
+        }
+    },
+    {
+        "id": "1_-1_-2",
+        "texture_pos": "scatter_1_-1_-2_pos.pfm",
+        "texture_col": "scatter_1_-1_-2_col.pfm",
+        "count": 18457,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                75.0001277923584,
+                -4.358394265174866,
+                -75.0013313293457
+            ],
+            "radius": 35.49289598995525
+        }
+    },
+    {
+        "id": "1_-1_-3",
+        "texture_pos": "scatter_1_-1_-3_pos.pfm",
+        "texture_col": "scatter_1_-1_-3_col.pfm",
+        "count": 9633,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                75.00075340270996,
+                -3.0408225059509277,
+                -125.00059127807617
+            ],
+            "radius": 35.40882504323686
+        }
+    },
+    {
+        "id": "1_-1_-4",
+        "texture_pos": "scatter_1_-1_-4_pos.pfm",
+        "texture_col": "scatter_1_-1_-4_col.pfm",
+        "count": 14426,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                75.00334548950195,
+                -3.49691966176033,
+                -175.00174713134766
+            ],
+            "radius": 35.45813867387689
+        }
+    },
+    {
+        "id": "1_-1_-5",
+        "texture_pos": "scatter_1_-1_-5_pos.pfm",
+        "texture_col": "scatter_1_-1_-5_col.pfm",
+        "count": 20479,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                75.00136184692383,
+                -2.4470499828457832,
+                -225.00135040283203
+            ],
+            "radius": 35.43623976159136
+        }
+    },
+    {
+        "id": "1_-1_-6",
+        "texture_pos": "scatter_1_-1_-6_pos.pfm",
+        "texture_col": "scatter_1_-1_-6_col.pfm",
+        "count": 9951,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                74.99772071838379,
+                -3.5672783851623535,
+                -263.0297546386719
+            ],
+            "radius": 28.21583302188589
+        }
+    },
+    {
+        "id": "1_-1_0",
+        "texture_pos": "scatter_1_-1_0_pos.pfm",
+        "texture_col": "scatter_1_-1_0_col.pfm",
+        "count": 14839,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                74.99873542785645,
+                -2.62703076004982,
+                25.000876495381817
+            ],
+            "radius": 35.413975018938494
+        }
+    },
+    {
+        "id": "1_-1_1",
+        "texture_pos": "scatter_1_-1_1_pos.pfm",
+        "texture_col": "scatter_1_-1_1_col.pfm",
+        "count": 17535,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                74.99936103820801,
+                -2.251746301772073,
+                75.00162887573242
+            ],
+            "radius": 35.42343044462829
+        }
+    },
+    {
+        "id": "1_-1_2",
+        "texture_pos": "scatter_1_-1_2_pos.pfm",
+        "texture_col": "scatter_1_-1_2_col.pfm",
+        "count": 16162,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                74.99480056762695,
+                -2.204801917076111,
+                125.00065994262695
+            ],
+            "radius": 35.41402075053724
+        }
+    },
+    {
+        "id": "1_-1_3",
+        "texture_pos": "scatter_1_-1_3_pos.pfm",
+        "texture_col": "scatter_1_-1_3_col.pfm",
+        "count": 14257,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                74.99428749084473,
+                -1.6289937524998095,
+                174.98451232910156
+            ],
+            "radius": 35.373165239005935
+        }
+    },
+    {
+        "id": "1_-1_4",
+        "texture_pos": "scatter_1_-1_4_pos.pfm",
+        "texture_col": "scatter_1_-1_4_col.pfm",
+        "count": 16072,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                74.99972152709961,
+                -5.055003623963785,
+                225.0034942626953
+            ],
+            "radius": 35.70951034752135
+        }
+    },
+    {
+        "id": "1_-1_5",
+        "texture_pos": "scatter_1_-1_5_pos.pfm",
+        "texture_col": "scatter_1_-1_5_col.pfm",
+        "count": 6281,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                75.0000991821289,
+                -1.4680811224097852,
+                262.8337631225586
+            ],
+            "radius": 28.138243941039228
+        }
+    },
+    {
+        "id": "1_0_-5",
+        "texture_pos": "scatter_1_0_-5_pos.pfm",
+        "texture_col": "scatter_1_0_-5_col.pfm",
+        "count": 223,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                70.1030044555664,
+                1.1678437958471477,
+                -228.62090301513672
+            ],
+            "radius": 26.93628832465211
+        }
+    },
+    {
+        "id": "1_0_1",
+        "texture_pos": "scatter_1_0_1_pos.pfm",
+        "texture_col": "scatter_1_0_1_col.pfm",
+        "count": 323,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                83.47925567626953,
+                1.2225566883571446,
+                80.64755249023438
+            ],
+            "radius": 24.30796553781188
+        }
+    },
+    {
+        "id": "1_0_2",
+        "texture_pos": "scatter_1_0_2_pos.pfm",
+        "texture_col": "scatter_1_0_2_col.pfm",
+        "count": 94,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                72.45444107055664,
+                0.6588545308914036,
+                102.6789436340332
+            ],
+            "radius": 21.20043741497697
+        }
+    },
+    {
+        "id": "1_0_3",
+        "texture_pos": "scatter_1_0_3_pos.pfm",
+        "texture_col": "scatter_1_0_3_col.pfm",
+        "count": 1027,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                74.99762916564941,
+                0.850269572736579,
+                176.7420196533203
+            ],
+            "radius": 34.07398292503996
+        }
+    },
+    {
+        "id": "1_0_4",
+        "texture_pos": "scatter_1_0_4_pos.pfm",
+        "texture_col": "scatter_1_0_4_col.pfm",
+        "count": 3862,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                74.98911094665527,
+                2.730994306564753,
+                225.05801391601562
+            ],
+            "radius": 35.38386781747878
+        }
+    },
+    {
+        "id": "1_0_5",
+        "texture_pos": "scatter_1_0_5_pos.pfm",
+        "texture_col": "scatter_1_0_5_col.pfm",
+        "count": 1139,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                75.01190948486328,
+                1.04777344991453,
+                262.7960739135742
+            ],
+            "radius": 28.032533425364182
+        }
+    },
+    {
+        "id": "2_-1_-1",
+        "texture_pos": "scatter_2_-1_-1_pos.pfm",
+        "texture_col": "scatter_2_-1_-1_col.pfm",
+        "count": 19179,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                125.00080490112305,
+                -2.9086728990077972,
+                -25.002797378692776
+            ],
+            "radius": 35.41529018813001
+        }
+    },
+    {
+        "id": "2_-1_-2",
+        "texture_pos": "scatter_2_-1_-2_pos.pfm",
+        "texture_col": "scatter_2_-1_-2_col.pfm",
+        "count": 20630,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                125.00028991699219,
+                -2.6264880001544952,
+                -74.99905014038086
+            ],
+            "radius": 35.41061495187794
+        }
+    },
+    {
+        "id": "2_-1_-3",
+        "texture_pos": "scatter_2_-1_-3_pos.pfm",
+        "texture_col": "scatter_2_-1_-3_col.pfm",
+        "count": 17606,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                125.00177001953125,
+                -3.434255927801132,
+                -124.99934387207031
+            ],
+            "radius": 35.494251722327526
+        }
+    },
+    {
+        "id": "2_-1_-4",
+        "texture_pos": "scatter_2_-1_-4_pos.pfm",
+        "texture_col": "scatter_2_-1_-4_col.pfm",
+        "count": 23183,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                125.0015869140625,
+                -2.4407652840018272,
+                -174.99791717529297
+            ],
+            "radius": 35.42983027850943
+        }
+    },
+    {
+        "id": "2_-1_-5",
+        "texture_pos": "scatter_2_-1_-5_pos.pfm",
+        "texture_col": "scatter_2_-1_-5_col.pfm",
+        "count": 20442,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                124.9975700378418,
+                -3.550262928009033,
+                -224.99919891357422
+            ],
+            "radius": 35.37604175367491
+        }
+    },
+    {
+        "id": "2_-1_-6",
+        "texture_pos": "scatter_2_-1_-6_pos.pfm",
+        "texture_col": "scatter_2_-1_-6_col.pfm",
+        "count": 10758,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                124.99152374267578,
+                -3.4441481828689575,
+                -263.22266387939453
+            ],
+            "radius": 28.30738345950023
+        }
+    },
+    {
+        "id": "2_-1_0",
+        "texture_pos": "scatter_2_-1_0_pos.pfm",
+        "texture_col": "scatter_2_-1_0_col.pfm",
+        "count": 16348,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                125.00055313110352,
+                -2.499420043081045,
+                24.997485488886014
+            ],
+            "radius": 35.43123081070576
+        }
+    },
+    {
+        "id": "2_-1_1",
+        "texture_pos": "scatter_2_-1_1_pos.pfm",
+        "texture_col": "scatter_2_-1_1_col.pfm",
+        "count": 13803,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                124.99985885620117,
+                -2.478033414867241,
+                75.00590896606445
+            ],
+            "radius": 35.43707475164164
+        }
+    },
+    {
+        "id": "2_-1_2",
+        "texture_pos": "scatter_2_-1_2_pos.pfm",
+        "texture_col": "scatter_2_-1_2_col.pfm",
+        "count": 12503,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                125.0022201538086,
+                -1.8854551147669554,
+                125.0002212524414
+            ],
+            "radius": 35.40085814814942
+        }
+    },
+    {
+        "id": "2_-1_3",
+        "texture_pos": "scatter_2_-1_3_pos.pfm",
+        "texture_col": "scatter_2_-1_3_col.pfm",
+        "count": 20701,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                124.99995422363281,
+                -2.425328166980762,
+                175.00019073486328
+            ],
+            "radius": 35.43183222742672
+        }
+    },
+    {
+        "id": "2_-1_4",
+        "texture_pos": "scatter_2_-1_4_pos.pfm",
+        "texture_col": "scatter_2_-1_4_col.pfm",
+        "count": 13139,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                125.00040435791016,
+                -1.5928448486956768,
+                225.00071716308594
+            ],
+            "radius": 35.385083987566055
+        }
+    },
+    {
+        "id": "2_-1_5",
+        "texture_pos": "scatter_2_-1_5_pos.pfm",
+        "texture_col": "scatter_2_-1_5_col.pfm",
+        "count": 4738,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                125.00733947753906,
+                -1.3128018484130735,
+                262.9805374145508
+            ],
+            "radius": 28.189916033445193
+        }
+    },
+    {
+        "id": "2_0_-4",
+        "texture_pos": "scatter_2_0_-4_pos.pfm",
+        "texture_col": "scatter_2_0_-4_col.pfm",
+        "count": 159,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                132.9190902709961,
+                0.6961670462042093,
+                -187.4423828125
+            ],
+            "radius": 16.319803400760932
+        }
+    },
+    {
+        "id": "2_0_0",
+        "texture_pos": "scatter_2_0_0_pos.pfm",
+        "texture_col": "scatter_2_0_0_col.pfm",
+        "count": 4,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                148.43164825439453,
+                0.5215078294277191,
+                47.97900390625
+            ],
+            "radius": 0.5564030248112549
+        }
+    },
+    {
+        "id": "2_0_1",
+        "texture_pos": "scatter_2_0_1_pos.pfm",
+        "texture_col": "scatter_2_0_1_col.pfm",
+        "count": 110,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                124.32519149780273,
+                0.43621194874867797,
+                85.17065811157227
+            ],
+            "radius": 25.555664490295506
+        }
+    },
+    {
+        "id": "2_0_2",
+        "texture_pos": "scatter_2_0_2_pos.pfm",
+        "texture_col": "scatter_2_0_2_col.pfm",
+        "count": 133,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                127.69401168823242,
+                3.0042823925614357,
+                101.47545623779297
+            ],
+            "radius": 3.280847929507935
+        }
+    },
+    {
+        "id": "2_0_3",
+        "texture_pos": "scatter_2_0_3_pos.pfm",
+        "texture_col": "scatter_2_0_3_col.pfm",
+        "count": 84,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                122.29541015625,
+                0.3477226849645376,
+                174.40650939941406
+            ],
+            "radius": 25.760587457210644
+        }
+    },
+    {
+        "id": "2_0_4",
+        "texture_pos": "scatter_2_0_4_pos.pfm",
+        "texture_col": "scatter_2_0_4_col.pfm",
+        "count": 286,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                125.10683059692383,
+                2.375130939486553,
+                229.33768463134766
+            ],
+            "radius": 32.31213564316834
+        }
+    },
+    {
+        "id": "2_0_5",
+        "texture_pos": "scatter_2_0_5_pos.pfm",
+        "texture_col": "scatter_2_0_5_col.pfm",
+        "count": 841,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                124.46836471557617,
+                2.448030330662732,
+                262.7779235839844
+            ],
+            "radius": 27.670236772116272
+        }
+    },
+    {
+        "id": "3_-1_-1",
+        "texture_pos": "scatter_3_-1_-1_pos.pfm",
+        "texture_col": "scatter_3_-1_-1_col.pfm",
+        "count": 21607,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                175.00186920166016,
+                -2.8062832951545715,
+                -25.000095581068308
+            ],
+            "radius": 35.397260958995595
+        }
+    },
+    {
+        "id": "3_-1_-2",
+        "texture_pos": "scatter_3_-1_-2_pos.pfm",
+        "texture_col": "scatter_3_-1_-2_col.pfm",
+        "count": 22188,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                175.00051879882812,
+                -2.7387067079544067,
+                -74.9984188079834
+            ],
+            "radius": 35.40728367557144
+        }
+    },
+    {
+        "id": "3_-1_-3",
+        "texture_pos": "scatter_3_-1_-3_pos.pfm",
+        "texture_col": "scatter_3_-1_-3_col.pfm",
+        "count": 16180,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                174.9990234375,
+                -2.657536829006858,
+                -125.0008544921875
+            ],
+            "radius": 35.44681588035958
+        }
+    },
+    {
+        "id": "3_-1_-4",
+        "texture_pos": "scatter_3_-1_-4_pos.pfm",
+        "texture_col": "scatter_3_-1_-4_col.pfm",
+        "count": 19078,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                174.99252319335938,
+                -2.648973762523383,
+                -174.99285888671875
+            ],
+            "radius": 35.44199540849383
+        }
+    },
+    {
+        "id": "3_-1_-5",
+        "texture_pos": "scatter_3_-1_-5_pos.pfm",
+        "texture_col": "scatter_3_-1_-5_col.pfm",
+        "count": 20648,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                174.9993133544922,
+                -2.4229863663204014,
+                -225.0005111694336
+            ],
+            "radius": 35.435846581021124
+        }
+    },
+    {
+        "id": "3_-1_-6",
+        "texture_pos": "scatter_3_-1_-6_pos.pfm",
+        "texture_col": "scatter_3_-1_-6_col.pfm",
+        "count": 10250,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                175.0000228881836,
+                -2.6827384531497955,
+                -263.23182678222656
+            ],
+            "radius": 28.376724559213958
+        }
+    },
+    {
+        "id": "3_-1_0",
+        "texture_pos": "scatter_3_-1_0_pos.pfm",
+        "texture_col": "scatter_3_-1_0_col.pfm",
+        "count": 19404,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                174.99993133544922,
+                -2.5336032640188932,
+                24.999359893845394
+            ],
+            "radius": 35.443233995584336
+        }
+    },
+    {
+        "id": "3_-1_1",
+        "texture_pos": "scatter_3_-1_1_pos.pfm",
+        "texture_col": "scatter_3_-1_1_col.pfm",
+        "count": 13690,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                175.00437927246094,
+                -2.762349824915873,
+                75.0006275177002
+            ],
+            "radius": 35.457217533389276
+        }
+    },
+    {
+        "id": "3_-1_2",
+        "texture_pos": "scatter_3_-1_2_pos.pfm",
+        "texture_col": "scatter_3_-1_2_col.pfm",
+        "count": 16441,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                174.99994659423828,
+                -1.8651695447042584,
+                124.99821090698242
+            ],
+            "radius": 35.39474824598688
+        }
+    },
+    {
+        "id": "3_-1_3",
+        "texture_pos": "scatter_3_-1_3_pos.pfm",
+        "texture_col": "scatter_3_-1_3_col.pfm",
+        "count": 12420,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                174.99881744384766,
+                -1.9729766193777323,
+                174.9973373413086
+            ],
+            "radius": 35.40139091104824
+        }
+    },
+    {
+        "id": "3_-1_4",
+        "texture_pos": "scatter_3_-1_4_pos.pfm",
+        "texture_col": "scatter_3_-1_4_col.pfm",
+        "count": 11966,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                175.0021743774414,
+                -1.980953659163788,
+                225.00128936767578
+            ],
+            "radius": 35.40621849760781
+        }
+    },
+    {
+        "id": "3_-1_5",
+        "texture_pos": "scatter_3_-1_5_pos.pfm",
+        "texture_col": "scatter_3_-1_5_col.pfm",
+        "count": 4928,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                175.00064849853516,
+                -2.0351635990155046,
+                262.90401458740234
+            ],
+            "radius": 28.1949967917104
+        }
+    },
+    {
+        "id": "3_0_-3",
+        "texture_pos": "scatter_3_0_-3_pos.pfm",
+        "texture_col": "scatter_3_0_-3_col.pfm",
+        "count": 10,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                195.63634490966797,
+                0.1102138701826334,
+                -103.24666976928711
+            ],
+            "radius": 0.9130422720130205
+        }
+    },
+    {
+        "id": "3_0_-4",
+        "texture_pos": "scatter_3_0_-4_pos.pfm",
+        "texture_col": "scatter_3_0_-4_col.pfm",
+        "count": 1096,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                168.6012725830078,
+                1.031123084248975,
+                -183.61996459960938
+            ],
+            "radius": 22.60580664165077
+        }
+    },
+    {
+        "id": "3_0_-5",
+        "texture_pos": "scatter_3_0_-5_pos.pfm",
+        "texture_col": "scatter_3_0_-5_col.pfm",
+        "count": 260,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                177.91492462158203,
+                1.044150484725833,
+                -238.87908935546875
+            ],
+            "radius": 15.074705557850121
+        }
+    },
+    {
+        "id": "3_0_-6",
+        "texture_pos": "scatter_3_0_-6_pos.pfm",
+        "texture_col": "scatter_3_0_-6_col.pfm",
+        "count": 14,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                186.38953399658203,
+                0.07097656652331352,
+                -270.11354064941406
+            ],
+            "radius": 1.665565791273098
+        }
+    },
+    {
+        "id": "3_0_0",
+        "texture_pos": "scatter_3_0_0_pos.pfm",
+        "texture_col": "scatter_3_0_0_col.pfm",
+        "count": 93,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                179.8873748779297,
+                0.6163710980908945,
+                37.48967361450195
+            ],
+            "radius": 17.395670450423108
+        }
+    },
+    {
+        "id": "3_0_1",
+        "texture_pos": "scatter_3_0_1_pos.pfm",
+        "texture_col": "scatter_3_0_1_col.pfm",
+        "count": 268,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                175.8408660888672,
+                1.9873614711759728,
+                73.24581527709961
+            ],
+            "radius": 32.85614425861348
+        }
+    },
+    {
+        "id": "3_0_2",
+        "texture_pos": "scatter_3_0_2_pos.pfm",
+        "texture_col": "scatter_3_0_2_col.pfm",
+        "count": 37,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                181.99542236328125,
+                0.13629101496189833,
+                126.33964538574219
+            ],
+            "radius": 26.870499640252596
+        }
+    },
+    {
+        "id": "3_0_3",
+        "texture_pos": "scatter_3_0_3_pos.pfm",
+        "texture_col": "scatter_3_0_3_col.pfm",
+        "count": 4,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                150.5977554321289,
+                0.05259277671575546,
+                191.07443237304688
+            ],
+            "radius": 5.220441611391803
+        }
+    },
+    {
+        "id": "3_0_4",
+        "texture_pos": "scatter_3_0_4_pos.pfm",
+        "texture_col": "scatter_3_0_4_col.pfm",
+        "count": 300,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                174.63809967041016,
+                1.711361444555223,
+                226.92543029785156
+            ],
+            "radius": 33.343522598142705
+        }
+    },
+    {
+        "id": "3_0_5",
+        "texture_pos": "scatter_3_0_5_pos.pfm",
+        "texture_col": "scatter_3_0_5_col.pfm",
+        "count": 261,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                176.99085998535156,
+                0.6211846003570827,
+                263.10581970214844
+            ],
+            "radius": 25.38363565451888
+        }
+    },
+    {
+        "id": "4_-1_-1",
+        "texture_pos": "scatter_4_-1_-1_pos.pfm",
+        "texture_col": "scatter_4_-1_-1_col.pfm",
+        "count": 18425,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                224.99851989746094,
+                -2.3468160405755043,
+                -25.00410968065262
+            ],
+            "radius": 35.41772950086878
+        }
+    },
+    {
+        "id": "4_-1_-2",
+        "texture_pos": "scatter_4_-1_-2_pos.pfm",
+        "texture_col": "scatter_4_-1_-2_col.pfm",
+        "count": 20902,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                225.00008392333984,
+                -2.6214810609817505,
+                -74.9993782043457
+            ],
+            "radius": 35.40645688583744
+        }
+    },
+    {
+        "id": "4_-1_-3",
+        "texture_pos": "scatter_4_-1_-3_pos.pfm",
+        "texture_col": "scatter_4_-1_-3_col.pfm",
+        "count": 21198,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                225.00102996826172,
+                -2.3908088253811,
+                -125.00114440917969
+            ],
+            "radius": 35.425002438670276
+        }
+    },
+    {
+        "id": "4_-1_-4",
+        "texture_pos": "scatter_4_-1_-4_pos.pfm",
+        "texture_col": "scatter_4_-1_-4_col.pfm",
+        "count": 22114,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                225.00080108642578,
+                -3.876259416807443,
+                -174.99932098388672
+            ],
+            "radius": 35.563627832384114
+        }
+    },
+    {
+        "id": "4_-1_-5",
+        "texture_pos": "scatter_4_-1_-5_pos.pfm",
+        "texture_col": "scatter_4_-1_-5_col.pfm",
+        "count": 19269,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                225.00003051757812,
+                -2.796555742272176,
+                -224.99373626708984
+            ],
+            "radius": 35.45875589571793
+        }
+    },
+    {
+        "id": "4_-1_-6",
+        "texture_pos": "scatter_4_-1_-6_pos.pfm",
+        "texture_col": "scatter_4_-1_-6_col.pfm",
+        "count": 9183,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                224.99718475341797,
+                -2.6222412491915748,
+                -263.0177230834961
+            ],
+            "radius": 28.296257840564202
+        }
+    },
+    {
+        "id": "4_-1_0",
+        "texture_pos": "scatter_4_-1_0_pos.pfm",
+        "texture_col": "scatter_4_-1_0_col.pfm",
+        "count": 18135,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                224.9991683959961,
+                -2.4695875216275454,
+                25.00634451303631
+            ],
+            "radius": 35.42903902131146
+        }
+    },
+    {
+        "id": "4_-1_1",
+        "texture_pos": "scatter_4_-1_1_pos.pfm",
+        "texture_col": "scatter_4_-1_1_col.pfm",
+        "count": 16741,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                225.0014419555664,
+                -2.536668947315775,
+                75.00039291381836
+            ],
+            "radius": 35.443821936427746
+        }
+    },
+    {
+        "id": "4_-1_2",
+        "texture_pos": "scatter_4_-1_2_pos.pfm",
+        "texture_col": "scatter_4_-1_2_col.pfm",
+        "count": 17382,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                225.0001449584961,
+                -2.0065363369649276,
+                125.00049209594727
+            ],
+            "radius": 35.40955700725485
+        }
+    },
+    {
+        "id": "4_-1_3",
+        "texture_pos": "scatter_4_-1_3_pos.pfm",
+        "texture_col": "scatter_4_-1_3_col.pfm",
+        "count": 18409,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                225.0016860961914,
+                -1.6687530127819628,
+                175.00012969970703
+            ],
+            "radius": 35.392584487026205
+        }
+    },
+    {
+        "id": "4_-1_4",
+        "texture_pos": "scatter_4_-1_4_pos.pfm",
+        "texture_col": "scatter_4_-1_4_col.pfm",
+        "count": 14505,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                224.99800872802734,
+                -1.9776505308400374,
+                224.99644470214844
+            ],
+            "radius": 35.4040416659261
+        }
+    },
+    {
+        "id": "4_-1_5",
+        "texture_pos": "scatter_4_-1_5_pos.pfm",
+        "texture_col": "scatter_4_-1_5_col.pfm",
+        "count": 5420,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                224.9880828857422,
+                -1.9795689535676502,
+                262.8131408691406
+            ],
+            "radius": 28.14954248909335
+        }
+    },
+    {
+        "id": "4_0_-3",
+        "texture_pos": "scatter_4_0_-3_pos.pfm",
+        "texture_col": "scatter_4_0_-3_col.pfm",
+        "count": 839,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                213.02255249023438,
+                0.957959053106606,
+                -133.2384490966797
+            ],
+            "radius": 14.221747992354958
+        }
+    },
+    {
+        "id": "4_0_-4",
+        "texture_pos": "scatter_4_0_-4_pos.pfm",
+        "texture_col": "scatter_4_0_-4_col.pfm",
+        "count": 763,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                232.56111907958984,
+                4.017363636055961,
+                -178.7481918334961
+            ],
+            "radius": 22.723890334253024
+        }
+    },
+    {
+        "id": "4_0_-5",
+        "texture_pos": "scatter_4_0_-5_pos.pfm",
+        "texture_col": "scatter_4_0_-5_col.pfm",
+        "count": 427,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                216.56816864013672,
+                2.2607043210882694,
+                -225.84049224853516
+            ],
+            "radius": 29.32989027230807
+        }
+    },
+    {
+        "id": "4_0_-6",
+        "texture_pos": "scatter_4_0_-6_pos.pfm",
+        "texture_col": "scatter_4_0_-6_col.pfm",
+        "count": 461,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                208.96871185302734,
+                0.7309472882188857,
+                -262.0201187133789
+            ],
+            "radius": 13.353669300072747
+        }
+    },
+    {
+        "id": "4_0_0",
+        "texture_pos": "scatter_4_0_0_pos.pfm",
+        "texture_col": "scatter_4_0_0_col.pfm",
+        "count": 51,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                226.3403091430664,
+                0.4639502268109936,
+                24.821267127990723
+            ],
+            "radius": 24.74762376955817
+        }
+    },
+    {
+        "id": "4_0_1",
+        "texture_pos": "scatter_4_0_1_pos.pfm",
+        "texture_col": "scatter_4_0_1_col.pfm",
+        "count": 107,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                222.80783081054688,
+                0.755546922708163,
+                81.69025421142578
+            ],
+            "radius": 26.077745673260434
+        }
+    },
+    {
+        "id": "4_0_2",
+        "texture_pos": "scatter_4_0_2_pos.pfm",
+        "texture_col": "scatter_4_0_2_col.pfm",
+        "count": 137,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                221.1704330444336,
+                0.4443056839518249,
+                125.10905456542969
+            ],
+            "radius": 32.255935382170684
+        }
+    },
+    {
+        "id": "4_0_3",
+        "texture_pos": "scatter_4_0_3_pos.pfm",
+        "texture_col": "scatter_4_0_3_col.pfm",
+        "count": 100,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                227.52556610107422,
+                0.5074766068719327,
+                175.0068817138672
+            ],
+            "radius": 33.59362978912662
+        }
+    },
+    {
+        "id": "4_0_4",
+        "texture_pos": "scatter_4_0_4_pos.pfm",
+        "texture_col": "scatter_4_0_4_col.pfm",
+        "count": 279,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                225.12140655517578,
+                1.6648574886348797,
+                223.40914154052734
+            ],
+            "radius": 33.98595976501368
+        }
+    },
+    {
+        "id": "4_0_5",
+        "texture_pos": "scatter_4_0_5_pos.pfm",
+        "texture_col": "scatter_4_0_5_col.pfm",
+        "count": 170,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                229.74842071533203,
+                1.847671924624592,
+                264.59822845458984
+            ],
+            "radius": 21.904100810709522
+        }
+    },
+    {
+        "id": "5_-1_-1",
+        "texture_pos": "scatter_5_-1_-1_pos.pfm",
+        "texture_col": "scatter_5_-1_-1_col.pfm",
+        "count": 15237,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                275.00060272216797,
+                -2.489716976881027,
+                -24.999157241822104
+            ],
+            "radius": 35.40492647679291
+        }
+    },
+    {
+        "id": "5_-1_-2",
+        "texture_pos": "scatter_5_-1_-2_pos.pfm",
+        "texture_col": "scatter_5_-1_-2_col.pfm",
+        "count": 20841,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                275.0015106201172,
+                -2.3448628149926662,
+                -75.00093841552734
+            ],
+            "radius": 35.4233585137518
+        }
+    },
+    {
+        "id": "5_-1_-3",
+        "texture_pos": "scatter_5_-1_-3_pos.pfm",
+        "texture_col": "scatter_5_-1_-3_col.pfm",
+        "count": 17592,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                274.99891662597656,
+                -3.3168400079011917,
+                -124.99787521362305
+            ],
+            "radius": 35.48216895757732
+        }
+    },
+    {
+        "id": "5_-1_-4",
+        "texture_pos": "scatter_5_-1_-4_pos.pfm",
+        "texture_col": "scatter_5_-1_-4_col.pfm",
+        "count": 12243,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                275.00303649902344,
+                -3.7618409395217896,
+                -174.99852752685547
+            ],
+            "radius": 35.41770591004952
+        }
+    },
+    {
+        "id": "5_-1_-5",
+        "texture_pos": "scatter_5_-1_-5_pos.pfm",
+        "texture_col": "scatter_5_-1_-5_col.pfm",
+        "count": 17948,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                274.9970474243164,
+                -2.453991699963808,
+                -224.9937286376953
+            ],
+            "radius": 35.42736057421484
+        }
+    },
+    {
+        "id": "5_-1_-6",
+        "texture_pos": "scatter_5_-1_-6_pos.pfm",
+        "texture_col": "scatter_5_-1_-6_col.pfm",
+        "count": 8889,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                274.99208068847656,
+                -2.4533784828381613,
+                -263.0256118774414
+            ],
+            "radius": 28.282707634935928
+        }
+    },
+    {
+        "id": "5_-1_0",
+        "texture_pos": "scatter_5_-1_0_pos.pfm",
+        "texture_col": "scatter_5_-1_0_col.pfm",
+        "count": 15250,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                275.00132751464844,
+                -2.5236382968723774,
+                24.999531646782998
+            ],
+            "radius": 35.44122972848871
+        }
+    },
+    {
+        "id": "5_-1_1",
+        "texture_pos": "scatter_5_-1_1_pos.pfm",
+        "texture_col": "scatter_5_-1_1_col.pfm",
+        "count": 20332,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                275.00059509277344,
+                -2.4265728988684714,
+                74.99866104125977
+            ],
+            "radius": 35.433189890403064
+        }
+    },
+    {
+        "id": "5_-1_2",
+        "texture_pos": "scatter_5_-1_2_pos.pfm",
+        "texture_col": "scatter_5_-1_2_col.pfm",
+        "count": 15119,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                275.0025863647461,
+                -1.8164209385286085,
+                125.00008010864258
+            ],
+            "radius": 35.398177568634395
+        }
+    },
+    {
+        "id": "5_-1_3",
+        "texture_pos": "scatter_5_-1_3_pos.pfm",
+        "texture_col": "scatter_5_-1_3_col.pfm",
+        "count": 17497,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                275.00386810302734,
+                -1.357763716718182,
+                174.99988555908203
+            ],
+            "radius": 35.376821227632966
+        }
+    },
+    {
+        "id": "5_-1_4",
+        "texture_pos": "scatter_5_-1_4_pos.pfm",
+        "texture_col": "scatter_5_-1_4_col.pfm",
+        "count": 17609,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                275.0008239746094,
+                -1.8041030798340216,
+                225.00025939941406
+            ],
+            "radius": 35.398147528363715
+        }
+    },
+    {
+        "id": "5_-1_5",
+        "texture_pos": "scatter_5_-1_5_pos.pfm",
+        "texture_col": "scatter_5_-1_5_col.pfm",
+        "count": 9158,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                275.0028991699219,
+                -1.6957485675811768,
+                262.73279571533203
+            ],
+            "radius": 28.102189992371244
+        }
+    },
+    {
+        "id": "5_0_-5",
+        "texture_pos": "scatter_5_0_-5_pos.pfm",
+        "texture_col": "scatter_5_0_-5_col.pfm",
+        "count": 21,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                292.24977111816406,
+                0.3860712945461273,
+                -211.15706634521484
+            ],
+            "radius": 1.675495426946731
+        }
+    },
+    {
+        "id": "5_0_-6",
+        "texture_pos": "scatter_5_0_-6_pos.pfm",
+        "texture_col": "scatter_5_0_-6_col.pfm",
+        "count": 389,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                286.9825134277344,
+                0.8213359648361802,
+                -275.11915588378906
+            ],
+            "radius": 1.7777450680014792
+        }
+    },
+    {
+        "id": "5_0_0",
+        "texture_pos": "scatter_5_0_0_pos.pfm",
+        "texture_col": "scatter_5_0_0_col.pfm",
+        "count": 312,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                264.02012634277344,
+                2.395384824834764,
+                23.72132968902588
+            ],
+            "radius": 15.151839876578057
+        }
+    },
+    {
+        "id": "5_0_1",
+        "texture_pos": "scatter_5_0_1_pos.pfm",
+        "texture_col": "scatter_5_0_1_col.pfm",
+        "count": 186,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                293.7563018798828,
+                0.45074318221304566,
+                80.00077056884766
+            ],
+            "radius": 20.397689321004
+        }
+    },
+    {
+        "id": "5_0_2",
+        "texture_pos": "scatter_5_0_2_pos.pfm",
+        "texture_col": "scatter_5_0_2_col.pfm",
+        "count": 270,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                286.40948486328125,
+                1.4729658327123616,
+                123.84797668457031
+            ],
+            "radius": 27.348696586411194
+        }
+    },
+    {
+        "id": "5_0_3",
+        "texture_pos": "scatter_5_0_3_pos.pfm",
+        "texture_col": "scatter_5_0_3_col.pfm",
+        "count": 685,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                274.90526580810547,
+                0.6513750067097135,
+                176.84458923339844
+            ],
+            "radius": 34.00189722863924
+        }
+    },
+    {
+        "id": "5_0_4",
+        "texture_pos": "scatter_5_0_4_pos.pfm",
+        "texture_col": "scatter_5_0_4_col.pfm",
+        "count": 431,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                275.11163330078125,
+                1.3443232936988352,
+                224.57586669921875
+            ],
+            "radius": 34.97444905232732
+        }
+    },
+    {
+        "id": "5_0_5",
+        "texture_pos": "scatter_5_0_5_pos.pfm",
+        "texture_col": "scatter_5_0_5_col.pfm",
+        "count": 72,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                279.5218811035156,
+                0.16543165454640985,
+                263.2244110107422
+            ],
+            "radius": 17.796402078599524
+        }
+    },
+    {
+        "id": "6_-1_-1",
+        "texture_pos": "scatter_6_-1_-1_pos.pfm",
+        "texture_col": "scatter_6_-1_-1_col.pfm",
+        "count": 21067,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                325.00225830078125,
+                -2.9661495983600616,
+                -25.000064178486355
+            ],
+            "radius": 35.412472284019884
+        }
+    },
+    {
+        "id": "6_-1_-2",
+        "texture_pos": "scatter_6_-1_-2_pos.pfm",
+        "texture_col": "scatter_6_-1_-2_col.pfm",
+        "count": 21196,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.99725341796875,
+                -2.7845763862133026,
+                -75.00194358825684
+            ],
+            "radius": 35.44646887008225
+        }
+    },
+    {
+        "id": "6_-1_-3",
+        "texture_pos": "scatter_6_-1_-3_pos.pfm",
+        "texture_col": "scatter_6_-1_-3_col.pfm",
+        "count": 21729,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.9995880126953,
+                -3.628983497619629,
+                -124.99944305419922
+            ],
+            "radius": 35.46359473668471
+        }
+    },
+    {
+        "id": "6_-1_-4",
+        "texture_pos": "scatter_6_-1_-4_pos.pfm",
+        "texture_col": "scatter_6_-1_-4_col.pfm",
+        "count": 20600,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.9996795654297,
+                -3.30716073513031,
+                -175.00385284423828
+            ],
+            "radius": 35.39925468822765
+        }
+    },
+    {
+        "id": "6_-1_-5",
+        "texture_pos": "scatter_6_-1_-5_pos.pfm",
+        "texture_col": "scatter_6_-1_-5_col.pfm",
+        "count": 21295,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.9986572265625,
+                -3.3528864979743958,
+                -224.9964141845703
+            ],
+            "radius": 35.38790607911749
+        }
+    },
+    {
+        "id": "6_-1_-6",
+        "texture_pos": "scatter_6_-1_-6_pos.pfm",
+        "texture_col": "scatter_6_-1_-6_col.pfm",
+        "count": 10481,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                325.00355529785156,
+                -3.2965402007102966,
+                -263.02223205566406
+            ],
+            "radius": 28.218801549073078
+        }
+    },
+    {
+        "id": "6_-1_0",
+        "texture_pos": "scatter_6_-1_0_pos.pfm",
+        "texture_col": "scatter_6_-1_0_col.pfm",
+        "count": 20945,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.99896240234375,
+                -2.9968101978302,
+                25.000173843407538
+            ],
+            "radius": 35.39485923765834
+        }
+    },
+    {
+        "id": "6_-1_1",
+        "texture_pos": "scatter_6_-1_1_pos.pfm",
+        "texture_col": "scatter_6_-1_1_col.pfm",
+        "count": 21772,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.99742126464844,
+                -2.358221746981144,
+                74.9990177154541
+            ],
+            "radius": 35.41843100565199
+        }
+    },
+    {
+        "id": "6_-1_2",
+        "texture_pos": "scatter_6_-1_2_pos.pfm",
+        "texture_col": "scatter_6_-1_2_col.pfm",
+        "count": 20509,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                325.00091552734375,
+                -1.8449966316111386,
+                124.99725341796875
+            ],
+            "radius": 35.39984636437505
+        }
+    },
+    {
+        "id": "6_-1_3",
+        "texture_pos": "scatter_6_-1_3_pos.pfm",
+        "texture_col": "scatter_6_-1_3_col.pfm",
+        "count": 21654,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.999755859375,
+                -1.4884781341825146,
+                174.9970245361328
+            ],
+            "radius": 35.38351423433142
+        }
+    },
+    {
+        "id": "6_-1_4",
+        "texture_pos": "scatter_6_-1_4_pos.pfm",
+        "texture_col": "scatter_6_-1_4_col.pfm",
+        "count": 21789,
+        "texture_size": 256,
+        "bounds": {
+            "center": [
+                324.9994659423828,
+                -1.7252979479089845,
+                225.0000228881836
+            ],
+            "radius": 35.39507698444292
+        }
+    },
+    {
+        "id": "6_-1_5",
+        "texture_pos": "scatter_6_-1_5_pos.pfm",
+        "texture_col": "scatter_6_-1_5_col.pfm",
+        "count": 10666,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                324.9992980957031,
+                -1.8018677532672882,
+                262.7291030883789
+            ],
+            "radius": 28.093141579082545
+        }
+    },
+    {
+        "id": "6_0_-2",
+        "texture_pos": "scatter_6_0_-2_pos.pfm",
+        "texture_col": "scatter_6_0_-2_col.pfm",
+        "count": 40,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                325.7555236816406,
+                0.4331943579018116,
+                -74.90117263793945
+            ],
+            "radius": 1.794341138743354
+        }
+    },
+    {
+        "id": "6_0_2",
+        "texture_pos": "scatter_6_0_2_pos.pfm",
+        "texture_col": "scatter_6_0_2_col.pfm",
+        "count": 425,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                326.4619598388672,
+                0.589874038239941,
+                130.5256576538086
+            ],
+            "radius": 30.508604124347123
+        }
+    },
+    {
+        "id": "6_0_3",
+        "texture_pos": "scatter_6_0_3_pos.pfm",
+        "texture_col": "scatter_6_0_3_col.pfm",
+        "count": 946,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                325.00946044921875,
+                2.0023332042910624,
+                173.5094451904297
+            ],
+            "radius": 34.36266262568369
+        }
+    },
+    {
+        "id": "6_0_4",
+        "texture_pos": "scatter_6_0_4_pos.pfm",
+        "texture_col": "scatter_6_0_4_col.pfm",
+        "count": 176,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                311.34039306640625,
+                0.41221387864788994,
+                218.16461944580078
+            ],
+            "radius": 20.35328388078415
+        }
+    },
+    {
+        "id": "7_-1_-1",
+        "texture_pos": "scatter_7_-1_-1_pos.pfm",
+        "texture_col": "scatter_7_-1_-1_col.pfm",
+        "count": 9591,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.2545623779297,
+                -2.7566992342472076,
+                -25.003531586378813
+            ],
+            "radius": 29.36697418203343
+        }
+    },
+    {
+        "id": "7_-1_-2",
+        "texture_pos": "scatter_7_-1_-2_pos.pfm",
+        "texture_col": "scatter_7_-1_-2_col.pfm",
+        "count": 11679,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.2548828125,
+                -2.4939073181158165,
+                -75.00026893615723
+            ],
+            "radius": 29.388761970321404
+        }
+    },
+    {
+        "id": "7_-1_-3",
+        "texture_pos": "scatter_7_-1_-3_pos.pfm",
+        "texture_col": "scatter_7_-1_-3_col.pfm",
+        "count": 12094,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.2559051513672,
+                -3.283660411834717,
+                -124.99503707885742
+            ],
+            "radius": 29.321326836925596
+        }
+    },
+    {
+        "id": "7_-1_-4",
+        "texture_pos": "scatter_7_-1_-4_pos.pfm",
+        "texture_col": "scatter_7_-1_-4_col.pfm",
+        "count": 13179,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.2562713623047,
+                -3.281672477722168,
+                -175.0016632080078
+            ],
+            "radius": 29.325098863628956
+        }
+    },
+    {
+        "id": "7_-1_-5",
+        "texture_pos": "scatter_7_-1_-5_pos.pfm",
+        "texture_col": "scatter_7_-1_-5_col.pfm",
+        "count": 13228,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.2624206542969,
+                -3.359781861305237,
+                -224.99140167236328
+            ],
+            "radius": 29.313446701051383
+        }
+    },
+    {
+        "id": "7_-1_-6",
+        "texture_pos": "scatter_7_-1_-6_pos.pfm",
+        "texture_col": "scatter_7_-1_-6_col.pfm",
+        "count": 3052,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                365.25732421875,
+                -3.4967349767684937,
+                -263.0239028930664
+            ],
+            "radius": 20.099600083848685
+        }
+    },
+    {
+        "id": "7_-1_0",
+        "texture_pos": "scatter_7_-1_0_pos.pfm",
+        "texture_col": "scatter_7_-1_0_col.pfm",
+        "count": 12814,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.255126953125,
+                -2.7942213118076324,
+                24.998047851608135
+            ],
+            "radius": 29.352467998429383
+        }
+    },
+    {
+        "id": "7_-1_1",
+        "texture_pos": "scatter_7_-1_1_pos.pfm",
+        "texture_col": "scatter_7_-1_1_col.pfm",
+        "count": 12839,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.25392150878906,
+                -2.9093585908412933,
+                75.00020599365234
+            ],
+            "radius": 29.372384672774416
+        }
+    },
+    {
+        "id": "7_-1_2",
+        "texture_pos": "scatter_7_-1_2_pos.pfm",
+        "texture_col": "scatter_7_-1_2_col.pfm",
+        "count": 11180,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.25067138671875,
+                -1.4400293770013377,
+                125.00758361816406
+            ],
+            "radius": 29.311842219800518
+        }
+    },
+    {
+        "id": "7_-1_3",
+        "texture_pos": "scatter_7_-1_3_pos.pfm",
+        "texture_col": "scatter_7_-1_3_col.pfm",
+        "count": 12160,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.25025939941406,
+                -1.7146348915121052,
+                175.0129165649414
+            ],
+            "radius": 29.318903849675976
+        }
+    },
+    {
+        "id": "7_-1_4",
+        "texture_pos": "scatter_7_-1_4_pos.pfm",
+        "texture_col": "scatter_7_-1_4_col.pfm",
+        "count": 13161,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.2523651123047,
+                -1.8748126277932897,
+                224.9996337890625
+            ],
+            "radius": 29.339842143332444
+        }
+    },
+    {
+        "id": "7_-1_5",
+        "texture_pos": "scatter_7_-1_5_pos.pfm",
+        "texture_col": "scatter_7_-1_5_col.pfm",
+        "count": 6636,
+        "texture_size": 128,
+        "bounds": {
+            "center": [
+                365.2509307861328,
+                -1.802287682890892,
+                262.7284469604492
+            ],
+            "radius": 19.925826199264044
+        }
+    },
+    {
+        "id": "7_0_-2",
+        "texture_pos": "scatter_7_0_-2_pos.pfm",
+        "texture_col": "scatter_7_0_-2_col.pfm",
+        "count": 1256,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                355.40769958496094,
+                2.9450498754158616,
+                -61.88243293762207
+            ],
+            "radius": 5.725004597921286
+        }
+    },
+    {
+        "id": "7_0_2",
+        "texture_pos": "scatter_7_0_2_pos.pfm",
+        "texture_col": "scatter_7_0_2_col.pfm",
+        "count": 1962,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                365.2538146972656,
+                0.6576855959892782,
+                126.08655548095703
+            ],
+            "radius": 28.35856473041973
+        }
+    },
+    {
+        "id": "7_0_3",
+        "texture_pos": "scatter_7_0_3_pos.pfm",
+        "texture_col": "scatter_7_0_3_col.pfm",
+        "count": 515,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                364.8758239746094,
+                0.583986337762326,
+                174.6638412475586
+            ],
+            "radius": 28.792251851298342
+        }
+    },
+    {
+        "id": "7_0_4",
+        "texture_pos": "scatter_7_0_4_pos.pfm",
+        "texture_col": "scatter_7_0_4_col.pfm",
+        "count": 112,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                369.71421813964844,
+                0.3684492363972822,
+                207.6216812133789
+            ],
+            "radius": 10.29722234297568
+        }
+    },
+    {
+        "id": "7_0_5",
+        "texture_pos": "scatter_7_0_5_pos.pfm",
+        "texture_col": "scatter_7_0_5_col.pfm",
+        "count": 4,
+        "texture_size": 64,
+        "bounds": {
+            "center": [
+                379.90545654296875,
+                0.22658302308991551,
+                262.658447265625
+            ],
+            "radius": 0.3688149566027544
+        }
+    }
+]
