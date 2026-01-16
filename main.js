@@ -153,8 +153,6 @@ class Experience {
         this.controls.enableDamping = true;
 
         this.reconstructionGroup = new THREE.Group();
-        this.reconstructionGroup.rotation.x = Math.PI;
-        this.reconstructionGroup.rotation.y = Math.PI;
         this.scene.add(this.reconstructionGroup);
 
         // Add Sun Light
@@ -221,7 +219,8 @@ class Experience {
 
         await this.loadChunks(manifest, folder);
 
-        // Standard orientation for all cities (rotated 180 degrees from original default)
+        // Standard orientation for all cities 
+        this.reconstructionGroup.rotation.x = 0;
         this.reconstructionGroup.rotation.y = 0;
 
         this.currentCity = cityName;
