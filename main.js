@@ -251,7 +251,11 @@ class Experience {
         }
         geometry.setAttribute('position', new THREE.BufferAttribute(new Float32Array(count * 3), 3));
         geometry.setAttribute('reference', new THREE.BufferAttribute(refs, 2));
-        geometry.boundingSphere = new THREE.Sphere(new THREE.Vector3(...bounds.center), bounds.radius);
+
+        // Optimize Frustum Culling: Provide accurate bounding sphere with padding for shader displacements
+        const radiusPadding = 15.0; // Account for mouse interaction burst and noise
+        geometry.boundingSphere = new THREE.Sphere(new THREE.Vector3(...bounds.center), bounds.radius + radiusPadding);
+        geometry.computeBoundingBox(); // Secondary fallback for some renderers
 
         const material = new THREE.ShaderMaterial({
             uniforms: {
@@ -379,6 +383,11 @@ class Experience {
 
         const points = new THREE.Points(geometry, material);
         points.frustumCulled = true;
+
+        // Performance: Disable auto-update since chunks are static within the reconstructionGroup
+        points.matrixAutoUpdate = false;
+        points.updateMatrix();
+
         this.reconstructionGroup.add(points);
         this.chunks.push(points);
     }
