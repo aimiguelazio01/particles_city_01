@@ -222,10 +222,13 @@ class Experience {
         // Adjust orientation per city
         if (cityName === 'london') {
             this.reconstructionGroup.rotation.x = Math.PI;
+            this.reconstructionGroup.rotation.y = Math.PI;
+            this.reconstructionGroup.rotation.z = 0;
         } else {
-            this.reconstructionGroup.rotation.x = 0; // Lisbon is upright at 0
+            this.reconstructionGroup.rotation.x = 0;
+            this.reconstructionGroup.rotation.y = 0;
+            this.reconstructionGroup.rotation.z = 0;
         }
-        this.reconstructionGroup.rotation.y = 0;
 
         this.currentCity = cityName;
         const titleEl = document.getElementById('city-title');
