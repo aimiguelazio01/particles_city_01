@@ -293,7 +293,7 @@ class Experience {
             uniforms: {
                 uPosTex: { value: posTex },
                 uColTex: { value: colTex },
-                uSize: { value: 0.2 },
+                uSize: { value: 0.4 },
                 uPixelRatio: { value: Math.min(window.devicePixelRatio, 2) },
                 uMonochrome: { value: this.monochrome ? 1.0 : 0.0 },
                 uTime: { value: 0 },
