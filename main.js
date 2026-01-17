@@ -201,16 +201,17 @@ class Experience {
         for (const entry of manifest) {
             const { texture_pos, texture_col, count, texture_size, bounds, id } = entry;
 
-            // Spatial Filter: Reduce bounding box size
+            // Spatial Filter: Include chunks if their bounding sphere touches the region
             const c = bounds.center;
-            const insideX = Math.abs(c[0] - fullCenter.x) < (fullSize.x * 0.5 * cropFactor);
-            const insideZ = Math.abs(c[2] - fullCenter.z) < (fullSize.z * 0.5 * cropFactor);
+            const r = bounds.radius;
+            // We use a slightly more inclusive check to ensure the region is "filled" 
+            const insideX = Math.abs(c[0] - fullCenter.x) < (fullSize.x * 0.5 * cropFactor + r);
+            const insideZ = Math.abs(c[2] - fullCenter.z) < (fullSize.z * 0.5 * cropFactor + r);
 
             if (!insideX || !insideZ) continue;
 
             totalPoints += count;
             const center = new THREE.Vector3(...bounds.center);
-            const r = bounds.radius;
             globalMin.min(new THREE.Vector3(center.x - r, center.y - r, center.z - r));
             globalMax.max(new THREE.Vector3(center.x + r, center.y + r, center.z + r));
 
