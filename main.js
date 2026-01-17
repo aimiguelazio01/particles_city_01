@@ -195,9 +195,11 @@ class Experience {
         const fullCenter = new THREE.Vector3().addVectors(centersMin, centersMax).multiplyScalar(0.5);
         const fullSize = new THREE.Vector3().subVectors(centersMax, centersMin);
 
-        // Crop factor of 0.7 on X and Z reduces area to ~49% of original
-        const cropFactor = 0.7;
+        // Crop factors to adjust loading speed and point density per city
+        // We use a tighter crop for London (0.6) as requested to improve load times
+        const cropFactor = (folder.includes('london')) ? 0.6 : 0.7;
 
+        let loadedChunksCount = 0;
         for (const entry of manifest) {
             const { texture_pos, texture_col, count, texture_size, bounds, id } = entry;
 
@@ -210,6 +212,7 @@ class Experience {
 
             if (!insideX || !insideZ) continue;
 
+            loadedChunksCount++;
             totalPoints += count;
             const center = new THREE.Vector3(...bounds.center);
             globalMin.min(new THREE.Vector3(center.x - r, center.y - r, center.z - r));
@@ -225,6 +228,7 @@ class Experience {
             } catch (err) { console.warn(err); }
         }
 
+        console.log(`Loaded ${loadedChunksCount} chunks out of ${manifest.length} for ${folder}`);
         const globalCenter = new THREE.Vector3().addVectors(globalMin, globalMax).multiplyScalar(0.5);
         this.reconstructionGroup.position.set(-globalCenter.x, -globalCenter.y, -globalCenter.z);
         this.particleCountEl.innerText = `${totalPoints.toLocaleString()} Points`;
