@@ -179,7 +179,8 @@ class Experience {
         const globalMin = new THREE.Vector3(Infinity, Infinity, Infinity);
         const globalMax = new THREE.Vector3(-Infinity, -Infinity, -Infinity);
 
-        for (const entry of manifest) {
+        for (let i = 0; i < manifest.length; i += 2) {
+            const entry = manifest[i];
             const { texture_pos, texture_col, count, texture_size, bounds, id } = entry;
             totalPoints += count;
             const center = new THREE.Vector3(...bounds.center);
