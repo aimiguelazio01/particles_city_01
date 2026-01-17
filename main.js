@@ -179,9 +179,35 @@ class Experience {
         const globalMin = new THREE.Vector3(Infinity, Infinity, Infinity);
         const globalMax = new THREE.Vector3(-Infinity, -Infinity, -Infinity);
 
-        for (let i = 0; i < manifest.length; i += 2) {
-            const entry = manifest[i];
+        // First pass: Find global extent of chunk centers
+        const centersMin = new THREE.Vector3(Infinity, Infinity, Infinity);
+        const centersMax = new THREE.Vector3(-Infinity, -Infinity, -Infinity);
+        manifest.forEach(e => {
+            const c = e.bounds.center;
+            centersMin.x = Math.min(centersMin.x, c[0]);
+            centersMin.y = Math.min(centersMin.y, c[1]);
+            centersMin.z = Math.min(centersMin.z, c[2]);
+            centersMax.x = Math.max(centersMax.x, c[0]);
+            centersMax.y = Math.max(centersMax.y, c[1]);
+            centersMax.z = Math.max(centersMax.z, c[2]);
+        });
+
+        const fullCenter = new THREE.Vector3().addVectors(centersMin, centersMax).multiplyScalar(0.5);
+        const fullSize = new THREE.Vector3().subVectors(centersMax, centersMin);
+
+        // Crop factor of 0.7 on X and Z reduces area to ~49% of original
+        const cropFactor = 0.7;
+
+        for (const entry of manifest) {
             const { texture_pos, texture_col, count, texture_size, bounds, id } = entry;
+
+            // Spatial Filter: Reduce bounding box size
+            const c = bounds.center;
+            const insideX = Math.abs(c[0] - fullCenter.x) < (fullSize.x * 0.5 * cropFactor);
+            const insideZ = Math.abs(c[2] - fullCenter.z) < (fullSize.z * 0.5 * cropFactor);
+
+            if (!insideX || !insideZ) continue;
+
             totalPoints += count;
             const center = new THREE.Vector3(...bounds.center);
             const r = bounds.radius;
